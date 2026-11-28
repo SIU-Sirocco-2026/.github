@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 807 948" role="img" lang="en" aria-labelledby="archify-diagram-title archify-diagram-description" data-animation="trace" data-preset="classic" data-quality-profile="showcase" data-tree-ui="" data-tree-direction="right" data-reader-fit="intrinsic-height" data-reader-min-text="10" style="--flow-cycle: 4.405s; width: 807px; height: 948px; min-width: 0px;" width="807" height="948" xmlns="http://www.w3.org/2000/svg"><style>
+<svg viewBox="0 0 1180 516" role="img" lang="en" aria-labelledby="archify-diagram-title archify-diagram-description" data-animation="trace" data-preset="classic" data-quality-profile="showcase" data-node-ui="" data-reader-fit="intrinsic-height" data-reader-min-text="7.5" data-reader-primary-text="14" style="--flow-cycle: 5.459s; width: 1180px; height: 516px; min-width: 0px;" width="1180" height="516" xmlns="http://www.w3.org/2000/svg"><style>
 /*
 JetBrains Mono variable WOFF2 subsets from Google Fonts service revision v24.
 These fixed bytes are shared by the viewer and its SVG/raster exports.
@@ -432,262 +432,214 @@ svg[data-preset="editorial"] { --flow-halo-peak: 0.07; --flow-glow-peak: 0.28; -
 }
 @keyframes archify-relay-ripple { 
   0% { r: 2px; opacity: var(--flow-peak, 0.6); }
-  17.026%, 100% { r: 20px; opacity: 0; }
+  13.74%, 100% { r: 20px; opacity: 0; }
 }
 @keyframes archify-relay-comet-0 { 
   0% { stroke-dashoffset: calc(var(--flow-len, 0px) + var(--flow-shift, 0px)); opacity: 0; animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  1.907% { opacity: var(--flow-peak, 0.9); }
-  9.534% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
-  13.167%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
+  2.198% { opacity: var(--flow-peak, 0.9); }
+  25.517% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
+  28.448%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
 }
 @keyframes archify-relay-wake-0 { 
-  0% { stroke-dashoffset: var(--flow-len, 0px); opacity: var(--flow-peak, 0.3); animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  9.534% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
-  29.965%, 100% { stroke-dashoffset: 0px; opacity: 0; }
+  0%, 7.655% { opacity: 0; }
+  25.517% { opacity: var(--flow-peak, 0.3); }
+  42.005%, 100% { stroke-dashoffset: 0px; opacity: 0; }
 }
 @keyframes archify-relay-comet-1 { 
   0% { stroke-dashoffset: calc(var(--flow-len, 0px) + var(--flow-shift, 0px)); opacity: 0; animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  1.907% { opacity: var(--flow-peak, 0.9); }
-  9.534% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
-  13.167%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
+  1.539% { opacity: var(--flow-peak, 0.9); }
+  7.694% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
+  10.626%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
 }
 @keyframes archify-relay-wake-1 { 
   0% { stroke-dashoffset: var(--flow-len, 0px); opacity: var(--flow-peak, 0.3); animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  9.534% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
-  29.965%, 100% { stroke-dashoffset: 0px; opacity: 0; }
+  7.694% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
+  24.182%, 100% { stroke-dashoffset: 0px; opacity: 0; }
 }
 @keyframes archify-relay-comet-2 { 
   0% { stroke-dashoffset: calc(var(--flow-len, 0px) + var(--flow-shift, 0px)); opacity: 0; animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  2.245% { opacity: var(--flow-peak, 0.9); }
-  11.226% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
-  14.858%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
+  2.198% { opacity: var(--flow-peak, 0.9); }
+  21.59% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
+  24.521%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
 }
 @keyframes archify-relay-wake-2 { 
   0% { stroke-dashoffset: var(--flow-len, 0px); opacity: var(--flow-peak, 0.3); animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  11.226% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
-  31.657%, 100% { stroke-dashoffset: 0px; opacity: 0; }
+  21.59% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
+  38.078%, 100% { stroke-dashoffset: 0px; opacity: 0; }
 }
 @keyframes archify-relay-comet-3 { 
   0% { stroke-dashoffset: calc(var(--flow-len, 0px) + var(--flow-shift, 0px)); opacity: 0; animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  2.724% { opacity: var(--flow-peak, 0.9); }
-  19.293% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
-  22.925%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
+  1.539% { opacity: var(--flow-peak, 0.9); }
+  7.694% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
+  10.626%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
 }
 @keyframes archify-relay-wake-3 { 
   0% { stroke-dashoffset: var(--flow-len, 0px); opacity: var(--flow-peak, 0.3); animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  19.293% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
-  39.724%, 100% { stroke-dashoffset: 0px; opacity: 0; }
+  7.694% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
+  24.182%, 100% { stroke-dashoffset: 0px; opacity: 0; }
 }
 @keyframes archify-relay-comet-4 { 
   0% { stroke-dashoffset: calc(var(--flow-len, 0px) + var(--flow-shift, 0px)); opacity: 0; animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  2.724% { opacity: var(--flow-peak, 0.9); }
-  26.792% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
-  30.424%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
+  1.539% { opacity: var(--flow-peak, 0.9); }
+  7.694% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
+  10.626%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
 }
 @keyframes archify-relay-wake-4 { 
   0% { stroke-dashoffset: var(--flow-len, 0px); opacity: var(--flow-peak, 0.3); animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  26.792% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
-  47.223%, 100% { stroke-dashoffset: 0px; opacity: 0; }
+  7.694% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
+  24.182%, 100% { stroke-dashoffset: 0px; opacity: 0; }
 }
 @keyframes archify-relay-comet-5 { 
   0% { stroke-dashoffset: calc(var(--flow-len, 0px) + var(--flow-shift, 0px)); opacity: 0; animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  1.907% { opacity: var(--flow-peak, 0.9); }
-  9.534% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
-  13.167%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
+  1.539% { opacity: var(--flow-peak, 0.9); }
+  7.694% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
+  10.626%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
 }
 @keyframes archify-relay-wake-5 { 
   0% { stroke-dashoffset: var(--flow-len, 0px); opacity: var(--flow-peak, 0.3); animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  9.534% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
-  29.965%, 100% { stroke-dashoffset: 0px; opacity: 0; }
+  7.694% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
+  24.182%, 100% { stroke-dashoffset: 0px; opacity: 0; }
 }
 @keyframes archify-relay-comet-6 { 
   0% { stroke-dashoffset: calc(var(--flow-len, 0px) + var(--flow-shift, 0px)); opacity: 0; animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  2.132% { opacity: var(--flow-peak, 0.9); }
-  10.658% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
-  14.291%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
+  2.198% { opacity: var(--flow-peak, 0.9); }
+  23.683% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
+  26.614%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
 }
 @keyframes archify-relay-wake-6 { 
   0% { stroke-dashoffset: var(--flow-len, 0px); opacity: var(--flow-peak, 0.3); animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  10.658% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
-  31.089%, 100% { stroke-dashoffset: 0px; opacity: 0; }
+  23.683% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
+  40.171%, 100% { stroke-dashoffset: 0px; opacity: 0; }
 }
 @keyframes archify-relay-comet-7 { 
   0% { stroke-dashoffset: calc(var(--flow-len, 0px) + var(--flow-shift, 0px)); opacity: 0; animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  2.724% { opacity: var(--flow-peak, 0.9); }
-  18.725% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
-  22.358%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
+  1.539% { opacity: var(--flow-peak, 0.9); }
+  7.694% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
+  10.626%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
 }
 @keyframes archify-relay-wake-7 { 
-  0% { stroke-dashoffset: var(--flow-len, 0px); opacity: var(--flow-peak, 0.3); animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  18.725% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
-  39.156%, 100% { stroke-dashoffset: 0px; opacity: 0; }
+  0%, 2.308% { opacity: 0; }
+  7.694% { opacity: var(--flow-peak, 0.3); }
+  24.182%, 100% { stroke-dashoffset: 0px; opacity: 0; }
 }
 @keyframes archify-relay-comet-8 { 
   0% { stroke-dashoffset: calc(var(--flow-len, 0px) + var(--flow-shift, 0px)); opacity: 0; animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  2.724% { opacity: var(--flow-peak, 0.9); }
-  34.051% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
-  37.684%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
+  2.198% { opacity: var(--flow-peak, 0.9); }
+  19.758% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
+  22.69%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
 }
 @keyframes archify-relay-wake-8 { 
-  0% { stroke-dashoffset: var(--flow-len, 0px); opacity: var(--flow-peak, 0.3); animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  34.051% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
-  54.482%, 100% { stroke-dashoffset: 0px; opacity: 0; }
+  0%, 5.928% { opacity: 0; }
+  19.758% { opacity: var(--flow-peak, 0.3); }
+  36.246%, 100% { stroke-dashoffset: 0px; opacity: 0; }
 }
 @keyframes archify-relay-comet-9 { 
   0% { stroke-dashoffset: calc(var(--flow-len, 0px) + var(--flow-shift, 0px)); opacity: 0; animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  1.907% { opacity: var(--flow-peak, 0.9); }
-  9.534% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
-  13.167%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
+  2.198% { opacity: var(--flow-peak, 0.9); }
+  14.523% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
+  17.454%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
 }
 @keyframes archify-relay-wake-9 { 
   0% { stroke-dashoffset: var(--flow-len, 0px); opacity: var(--flow-peak, 0.3); animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  9.534% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
-  29.965%, 100% { stroke-dashoffset: 0px; opacity: 0; }
+  14.523% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
+  31.011%, 100% { stroke-dashoffset: 0px; opacity: 0; }
 }
 @keyframes archify-relay-comet-10 { 
   0% { stroke-dashoffset: calc(var(--flow-len, 0px) + var(--flow-shift, 0px)); opacity: 0; animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  2.261% { opacity: var(--flow-peak, 0.9); }
-  11.307% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
-  14.939%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
+  1.539% { opacity: var(--flow-peak, 0.9); }
+  7.694% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
+  10.626%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
 }
 @keyframes archify-relay-wake-10 { 
-  0% { stroke-dashoffset: var(--flow-len, 0px); opacity: var(--flow-peak, 0.3); animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  11.307% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
-  31.738%, 100% { stroke-dashoffset: 0px; opacity: 0; }
-}
-@keyframes archify-relay-comet-11 { 
-  0% { stroke-dashoffset: calc(var(--flow-len, 0px) + var(--flow-shift, 0px)); opacity: 0; animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  2.724% { opacity: var(--flow-peak, 0.9); }
-  34.051% { stroke-dashoffset: var(--flow-shift, 0px); opacity: var(--flow-peak, 0.9); }
-  37.684%, 100% { stroke-dashoffset: var(--flow-shift, 0px); opacity: 0; }
-}
-@keyframes archify-relay-wake-11 { 
-  0% { stroke-dashoffset: var(--flow-len, 0px); opacity: var(--flow-peak, 0.3); animation-timing-function: cubic-bezier(0.45, 0.05, 0.35, 1); }
-  34.051% { stroke-dashoffset: 0px; opacity: var(--flow-peak, 0.3); }
-  54.482%, 100% { stroke-dashoffset: 0px; opacity: 0; }
+  0%, 2.308% { opacity: 0; }
+  7.694% { opacity: var(--flow-peak, 0.3); }
+  24.182%, 100% { stroke-dashoffset: 0px; opacity: 0; }
 }
 @keyframes archify-relay-node-0 { 
   0%, 100% { filter: var(--ambient-node-base-filter, none); }
   0% { filter: var(--ambient-node-base-filter, none); }
-  2.724%, 9.534% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
-  27.241% { filter: var(--ambient-node-base-filter, none); }
+  2.198%, 7.694% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
+  21.984% { filter: var(--ambient-node-base-filter, none); }
 }
 @keyframes archify-relay-node-1 { 
   0%, 100% { filter: var(--ambient-node-base-filter, none); }
-  9.534% { filter: var(--ambient-node-base-filter, none); }
-  12.259%, 19.069% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
-  36.776% { filter: var(--ambient-node-base-filter, none); }
+  25.517% { filter: var(--ambient-node-base-filter, none); }
+  27.716%, 33.212% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
+  47.501% { filter: var(--ambient-node-base-filter, none); }
 }
 @keyframes archify-relay-node-2 { 
   0%, 100% { filter: var(--ambient-node-base-filter, none); }
-  26.792% { filter: var(--ambient-node-base-filter, none); }
-  29.516%, 36.327% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
-  54.033% { filter: var(--ambient-node-base-filter, none); }
+  7.694% { filter: var(--ambient-node-base-filter, none); }
+  9.893%, 15.389% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
+  29.678% { filter: var(--ambient-node-base-filter, none); }
 }
 @keyframes archify-relay-node-3 { 
   0%, 100% { filter: var(--ambient-node-base-filter, none); }
-  34.051% { filter: var(--ambient-node-base-filter, none); }
-  36.776%, 43.586% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
-  61.293% { filter: var(--ambient-node-base-filter, none); }
+  21.59% { filter: var(--ambient-node-base-filter, none); }
+  23.788%, 29.284% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
+  43.574% { filter: var(--ambient-node-base-filter, none); }
 }
 @keyframes archify-relay-node-4 { 
   0%, 100% { filter: var(--ambient-node-base-filter, none); }
-  34.051% { filter: var(--ambient-node-base-filter, none); }
-  36.776%, 43.586% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
-  61.293% { filter: var(--ambient-node-base-filter, none); }
+  17.221% { filter: var(--ambient-node-base-filter, none); }
+  19.419%, 24.915% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
+  39.205% { filter: var(--ambient-node-base-filter, none); }
 }
 @keyframes archify-relay-node-5 { 
   0%, 100% { filter: var(--ambient-node-base-filter, none); }
-  21.339% { filter: var(--ambient-node-base-filter, none); }
-  24.063%, 30.873% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
-  48.58% { filter: var(--ambient-node-base-filter, none); }
+  26.747% { filter: var(--ambient-node-base-filter, none); }
+  28.946%, 34.442% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
+  48.731% { filter: var(--ambient-node-base-filter, none); }
 }
 @keyframes archify-relay-node-6 { 
   0%, 100% { filter: var(--ambient-node-base-filter, none); }
-  23.03% { filter: var(--ambient-node-base-filter, none); }
-  25.755%, 32.565% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
-  50.272% { filter: var(--ambient-node-base-filter, none); }
+  31.116% { filter: var(--ambient-node-base-filter, none); }
+  33.314%, 38.81% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
+  53.1% { filter: var(--ambient-node-base-filter, none); }
 }
 @keyframes archify-relay-node-7 { 
   0%, 100% { filter: var(--ambient-node-base-filter, none); }
-  31.097% { filter: var(--ambient-node-base-filter, none); }
-  33.822%, 40.632% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
-  58.339% { filter: var(--ambient-node-base-filter, none); }
+  36.274% { filter: var(--ambient-node-base-filter, none); }
+  38.472%, 43.968% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
+  58.258% { filter: var(--ambient-node-base-filter, none); }
 }
 @keyframes archify-relay-node-8 { 
   0%, 100% { filter: var(--ambient-node-base-filter, none); }
-  38.597% { filter: var(--ambient-node-base-filter, none); }
-  41.321%, 48.131% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
-  65.838% { filter: var(--ambient-node-base-filter, none); }
+  52.629% { filter: var(--ambient-node-base-filter, none); }
+  54.827%, 60.323% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
+  74.613% { filter: var(--ambient-node-base-filter, none); }
 }
 @keyframes archify-relay-node-9 { 
   0%, 100% { filter: var(--ambient-node-base-filter, none); }
-  39.721% { filter: var(--ambient-node-base-filter, none); }
-  42.445%, 49.255% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
-  66.962% { filter: var(--ambient-node-base-filter, none); }
+  45.8% { filter: var(--ambient-node-base-filter, none); }
+  47.998%, 53.494% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
+  67.784% { filter: var(--ambient-node-base-filter, none); }
 }
-@keyframes archify-relay-node-10 { 
-  0%, 100% { filter: var(--ambient-node-base-filter, none); }
-  47.788% { filter: var(--ambient-node-base-filter, none); }
-  50.512%, 57.322% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
-  75.029% { filter: var(--ambient-node-base-filter, none); }
-}
-@keyframes archify-relay-node-11 { 
-  0%, 100% { filter: var(--ambient-node-base-filter, none); }
-  45.856% { filter: var(--ambient-node-base-filter, none); }
-  48.58%, 55.39% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
-  73.097% { filter: var(--ambient-node-base-filter, none); }
-}
-@keyframes archify-relay-node-12 { 
-  0%, 100% { filter: var(--ambient-node-base-filter, none); }
-  47.629% { filter: var(--ambient-node-base-filter, none); }
-  50.353%, 57.163% { filter: var(--ambient-node-base-filter,) drop-shadow(0 0 10px var(--arrow-emphasis)); }
-  74.87% { filter: var(--ambient-node-base-filter, none); }
-}
-svg[data-tree-ui] .tree-hue-root { --tree-hue: var(--text-muted); --tree-wash: transparent; }
-svg[data-tree-ui] .tree-hue-backend { --tree-hue: var(--backend-stroke); --tree-wash: var(--backend-fill); }
-svg[data-tree-ui] .tree-hue-database { --tree-hue: var(--database-stroke); --tree-wash: var(--database-fill); }
-svg[data-tree-ui] .tree-hue-cloud { --tree-hue: var(--cloud-stroke); --tree-wash: var(--cloud-fill); }
-svg[data-tree-ui] .tree-hue-frontend { --tree-hue: var(--frontend-stroke); --tree-wash: var(--frontend-fill); }
-svg[data-tree-ui] .tree-hue-messagebus { --tree-hue: var(--messagebus-stroke); --tree-wash: var(--messagebus-fill); }
-svg[data-tree-ui] .tree-hue-external { --tree-hue: var(--external-stroke); --tree-wash: var(--external-fill); }
-svg[data-tree-ui] .tree-edge { stroke-linejoin: round; stroke-linecap: round; }
-svg[data-tree-ui] .tree-edge-trunk { stroke: color-mix(in srgb, var(--text) 18%, var(--arrow)); }
-svg[data-tree-ui] .tree-edge-hued { stroke: color-mix(in srgb, var(--tree-hue) 42%, var(--arrow)); }
-svg[data-tree-ui] .tree-root { fill: var(--text); stroke: none; }
-svg[data-tree-ui] [data-tree-depth="0"] .tree-label { fill: var(--mask); }
-svg[data-tree-ui] [data-tree-depth="0"] .tree-sublabel { fill: var(--mask); opacity: 0.68; }
-svg[data-tree-ui] .tree-branch { fill: var(--tree-wash); stroke: color-mix(in srgb, var(--tree-hue) 48%, var(--lane-stroke)); }
-svg[data-tree-ui] .tree-leaf { fill: var(--mask); stroke: color-mix(in srgb, var(--tree-hue) 22%, var(--lane-stroke)); }
-svg[data-tree-ui] .tree-socket { fill: var(--mask); stroke: var(--tree-hue); pointer-events: none; }
-svg[data-tree-ui] .tree-accent { stroke: var(--tree-hue); pointer-events: none; }
-svg[data-tree-ui] [data-tree-stack] { display: none; fill: var(--mask); stroke: color-mix(in srgb, var(--tree-hue) 70%, var(--lane-stroke)); }
-svg[data-tree-ui] [data-tree-collapsed] [data-tree-stack] { display: inline; }
-svg[data-tree-ui] [data-tree-hidden] { display: none; }
-svg[data-tree-ui] .tree-toggle-hit { fill: transparent; }
-svg[data-tree-ui] .tree-toggle-disc { fill: var(--mask); stroke: color-mix(in srgb, var(--tree-hue) 55%, var(--lane-stroke)); transition: stroke 0.15s, fill 0.15s; }
-svg[data-tree-ui] .tree-toggle-glyph { stroke: var(--text-muted); fill: none; transition: stroke 0.15s; }
-svg[data-tree-ui] .tree-toggle-count { display: none; }
-svg[data-tree-ui] .tree-count-pill { fill: var(--tree-hue); stroke: none; }
-svg[data-tree-ui] .tree-toggle-count text { fill: var(--mask); }
-svg[data-tree-ui] [data-tree-toggle] { cursor: pointer; outline: none; }
-svg[data-tree-ui] [data-tree-toggle][aria-expanded="true"] .tree-toggle-plus { display: none; }
-svg[data-tree-ui] [data-tree-toggle][aria-expanded="false"] .tree-toggle-count { display: inline; }
-svg[data-tree-ui] [data-tree-toggle][aria-expanded="false"] .tree-toggle-disc { fill: var(--tree-hue); stroke: var(--tree-hue); }
-svg[data-tree-ui] [data-tree-toggle][aria-expanded="false"] .tree-toggle-glyph { stroke: var(--mask); }
-svg[data-tree-ui] [data-tree-toggle]:hover .tree-toggle-disc, svg[data-tree-ui] [data-tree-toggle]:focus-visible .tree-toggle-disc { stroke: var(--tree-hue); stroke-width: 2; }
-svg[data-tree-ui] [data-tree-toggle]:hover .tree-toggle-glyph, svg[data-tree-ui] [data-tree-toggle]:focus-visible .tree-toggle-glyph { stroke: var(--text); }
-svg[data-tree-ui] [data-tree-expand-all] { cursor: pointer; outline: none; }
-svg[data-tree-ui] [data-tree-expand-all] rect { fill: var(--mask); stroke: var(--lane-stroke); }
-svg[data-tree-ui] [data-tree-expand-all]:is(:hover, :focus-visible) rect { stroke: var(--arrow-emphasis); stroke-width: 2; }
-svg[data-tree-ui]:not([data-tree-any-collapsed]) [data-tree-expand-all] { display: none; }
-svg[data-tree-ui] [data-node-id][data-emphasis] &gt; :is(.tree-root, .tree-branch, .tree-leaf) { stroke-width: 3.2; }
-:root, svg { --bg: #020617; --grid: #1e293b; --canvas-dot: rgba(148, 163, 184, 0.16); --text: #ffffff; --text-muted: #94a3b8; --text-dim: #475569; --text-faint: #7d8da1; --panel: rgba(15, 23, 42, 0.5); --panel-border: #1e293b; --lane-fill: rgba(15, 23, 42, 0.22); --lane-stroke: #334155; --arrow: #94a3b8; --arrow-emphasis: #34d399; --edge-label: #94a3b8; --mask: #0f172a; --frontend-fill: rgba(8, 51, 68, 0.4); --frontend-stroke: #22d3ee; --backend-fill: rgba(6, 78, 59, 0.4); --backend-stroke: #34d399; --database-fill: rgba(76, 29, 149, 0.4); --database-stroke: #a78bfa; --cloud-fill: rgba(120, 53, 15, 0.3); --cloud-stroke: #fbbf24; --security-fill: rgba(136, 19, 55, 0.4); --security-stroke: #fb7185; --messagebus-fill: rgba(251, 146, 60, 0.3); --messagebus-stroke: #fb923c; --external-fill: rgba(30, 41, 59, 0.5); --external-stroke: #94a3b8; --toolbar-bg: rgba(15, 23, 42, 0.8); --toolbar-border: #334155; --toolbar-text: #e2e8f0; --toolbar-hover: rgba(15, 23, 42, 0.95); --toolbar-menu-bg: #0f172a; --reader-accent: ; --flow-cycle: ; --flow-halo-peak: ; --flow-glow-peak: ; --flow-tail-peak: ; --flow-head-peak: ; --flow-wake-peak: ; --flow-ripple-peak: ; --flow-peak: ; --tree-hue: ; --tree-wash: ; }
-@media (prefers-color-scheme: light) { :root, svg { --bg: #f4f5f7; --grid: #e9edf2; --canvas-dot: #e2e7ec; --text: #111827; --text-muted: #5b6474; --text-dim: #9aa3b2; --text-faint: #6b7280; --panel: #ffffff; --panel-border: #e5e7eb; --lane-fill: rgba(248, 250, 252, 0.65); --lane-stroke: #cbd5e1; --arrow: #64748b; --arrow-emphasis: #059669; --edge-label: #5b6474; --mask: #ffffff; --frontend-fill: rgba(34, 211, 238, 0.15); --frontend-stroke: #0891b2; --backend-fill: rgba(52, 211, 153, 0.18); --backend-stroke: #059669; --database-fill: rgba(167, 139, 250, 0.2); --database-stroke: #7c3aed; --cloud-fill: rgba(251, 191, 36, 0.18); --cloud-stroke: #d97706; --security-fill: rgba(251, 113, 133, 0.15); --security-stroke: #e11d48; --messagebus-fill: rgba(251, 146, 60, 0.15); --messagebus-stroke: #ea580c; --external-fill: rgba(148, 163, 184, 0.18); --external-stroke: #64748b; --toolbar-bg: rgba(255, 255, 255, 0.92); --toolbar-border: #cbd5e1; --toolbar-text: #334155; --toolbar-hover: #ffffff; --toolbar-menu-bg: #ffffff; --reader-accent: #077f9c; --flow-cycle: ; --flow-halo-peak: ; --flow-glow-peak: ; --flow-tail-peak: ; --flow-head-peak: ; --flow-wake-peak: ; --flow-ripple-peak: ; --flow-peak: ; --tree-hue: ; --tree-wash: ; } }
-svg[data-theme="light"] { --bg: #f4f5f7; --grid: #e9edf2; --canvas-dot: #e2e7ec; --text: #111827; --text-muted: #5b6474; --text-dim: #9aa3b2; --text-faint: #6b7280; --panel: #ffffff; --panel-border: #e5e7eb; --lane-fill: rgba(248, 250, 252, 0.65); --lane-stroke: #cbd5e1; --arrow: #64748b; --arrow-emphasis: #059669; --edge-label: #5b6474; --mask: #ffffff; --frontend-fill: rgba(34, 211, 238, 0.15); --frontend-stroke: #0891b2; --backend-fill: rgba(52, 211, 153, 0.18); --backend-stroke: #059669; --database-fill: rgba(167, 139, 250, 0.2); --database-stroke: #7c3aed; --cloud-fill: rgba(251, 191, 36, 0.18); --cloud-stroke: #d97706; --security-fill: rgba(251, 113, 133, 0.15); --security-stroke: #e11d48; --messagebus-fill: rgba(251, 146, 60, 0.15); --messagebus-stroke: #ea580c; --external-fill: rgba(148, 163, 184, 0.18); --external-stroke: #64748b; --toolbar-bg: rgba(255, 255, 255, 0.92); --toolbar-border: #cbd5e1; --toolbar-text: #334155; --toolbar-hover: #ffffff; --toolbar-menu-bg: #ffffff; --reader-accent: #077f9c; --flow-cycle: ; --flow-halo-peak: ; --flow-glow-peak: ; --flow-tail-peak: ; --flow-head-peak: ; --flow-wake-peak: ; --flow-ripple-peak: ; --flow-peak: ; --tree-hue: ; --tree-wash: ; }
-svg[data-theme="dark"] { --bg: #020617; --grid: #1e293b; --canvas-dot: rgba(148, 163, 184, 0.16); --text: #ffffff; --text-muted: #94a3b8; --text-dim: #475569; --text-faint: #7d8da1; --panel: rgba(15, 23, 42, 0.5); --panel-border: #1e293b; --lane-fill: rgba(15, 23, 42, 0.22); --lane-stroke: #334155; --arrow: #94a3b8; --arrow-emphasis: #34d399; --edge-label: #94a3b8; --mask: #0f172a; --frontend-fill: rgba(8, 51, 68, 0.4); --frontend-stroke: #22d3ee; --backend-fill: rgba(6, 78, 59, 0.4); --backend-stroke: #34d399; --database-fill: rgba(76, 29, 149, 0.4); --database-stroke: #a78bfa; --cloud-fill: rgba(120, 53, 15, 0.3); --cloud-stroke: #fbbf24; --security-fill: rgba(136, 19, 55, 0.4); --security-stroke: #fb7185; --messagebus-fill: rgba(251, 146, 60, 0.3); --messagebus-stroke: #fb923c; --external-fill: rgba(30, 41, 59, 0.5); --external-stroke: #94a3b8; --toolbar-bg: rgba(15, 23, 42, 0.8); --toolbar-border: #334155; --toolbar-text: #e2e8f0; --toolbar-hover: rgba(15, 23, 42, 0.95); --toolbar-menu-bg: #0f172a; --reader-accent: ; --flow-cycle: ; --flow-halo-peak: ; --flow-glow-peak: ; --flow-tail-peak: ; --flow-head-peak: ; --flow-wake-peak: ; --flow-ripple-peak: ; --flow-peak: ; --tree-hue: ; --tree-wash: ; }
+svg[data-node-ui] [data-node-id] &gt; rect:not(.c-mask) { stroke-width: 1.25px; }
+:is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-frontend { fill: color-mix(in srgb, var(--frontend-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--frontend-stroke) 72%, var(--mask)); }
+:is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-backend { fill: color-mix(in srgb, var(--backend-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--backend-stroke) 72%, var(--mask)); }
+:is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-database { fill: color-mix(in srgb, var(--database-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--database-stroke) 72%, var(--mask)); }
+:is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-cloud { fill: color-mix(in srgb, var(--cloud-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--cloud-stroke) 72%, var(--mask)); }
+:is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-security { fill: color-mix(in srgb, var(--security-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--security-stroke) 72%, var(--mask)); }
+:is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-messagebus { fill: color-mix(in srgb, var(--messagebus-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--messagebus-stroke) 72%, var(--mask)); }
+:is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-external { fill: color-mix(in srgb, var(--external-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--external-stroke) 72%, var(--mask)); }
+svg[data-node-ui]:is([data-preset="classic"], [data-preset="signal-flow"], [data-preset="editorial"]) .c-region { fill: color-mix(in srgb, var(--cloud-stroke) 3%, transparent); stroke: color-mix(in srgb, var(--cloud-stroke) 42%, var(--lane-stroke)); stroke-dasharray: none; }
+svg[data-node-ui] .c-security-group { stroke: color-mix(in srgb, var(--security-stroke) 58%, var(--lane-stroke)); }
+svg[data-node-ui]:is([data-preset="classic"], [data-preset="signal-flow"], [data-preset="editorial"]) .c-security-group { stroke-dasharray: 4, 3; }
+svg[data-node-ui]:is([data-preset="classic"], [data-preset="signal-flow"], [data-preset="editorial"]) .c-lane { stroke: var(--lane-stroke); stroke-dasharray: none; }
+svg[data-node-ui] [data-graph-role="structural-frame-label-mask"] { rx: 5px; fill: color-mix(in srgb, var(--cloud-stroke) 10%, var(--mask)); stroke: color-mix(in srgb, var(--cloud-stroke) 38%, var(--mask)); stroke-width: 0.8px; }
+svg[data-node-ui] [data-composition-frame-kind="security-group"] &gt; [data-graph-role="structural-frame-label-mask"] { fill: color-mix(in srgb, var(--security-stroke) 9%, var(--mask)); stroke: color-mix(in srgb, var(--security-stroke) 36%, var(--mask)); }
+svg[data-node-ui] .phase-rule { opacity: 0.5; stroke-dasharray: none; }
+svg[data-node-ui] .phase-chip { stroke: var(--lane-stroke); stroke-width: 0.75px; }
+svg[data-node-ui] g[data-edge-from] &gt; rect.c-mask { rx: 7px; stroke: var(--lane-stroke); stroke-width: 0.75px; }
+svg[data-node-ui][data-preset="blueprint"] :is([data-graph-role="structural-frame-label-mask"], g[data-edge-from] &gt; rect.c-mask, .phase-chip) { rx: 2px; }
+svg[data-node-ui][data-preset="editorial"] :is([data-graph-role="structural-frame-label-mask"], g[data-edge-from] &gt; rect.c-mask, .phase-chip) { rx: 3px; }
+:root, svg { --bg: #020617; --grid: #1e293b; --canvas-dot: rgba(148, 163, 184, 0.16); --text: #ffffff; --text-muted: #94a3b8; --text-dim: #475569; --text-faint: #7d8da1; --panel: rgba(15, 23, 42, 0.5); --panel-border: #1e293b; --lane-fill: rgba(15, 23, 42, 0.22); --lane-stroke: #334155; --arrow: #94a3b8; --arrow-emphasis: #34d399; --edge-label: #94a3b8; --mask: #0f172a; --frontend-fill: rgba(8, 51, 68, 0.4); --frontend-stroke: #22d3ee; --backend-fill: rgba(6, 78, 59, 0.4); --backend-stroke: #34d399; --database-fill: rgba(76, 29, 149, 0.4); --database-stroke: #a78bfa; --cloud-fill: rgba(120, 53, 15, 0.3); --cloud-stroke: #fbbf24; --security-fill: rgba(136, 19, 55, 0.4); --security-stroke: #fb7185; --messagebus-fill: rgba(251, 146, 60, 0.3); --messagebus-stroke: #fb923c; --external-fill: rgba(30, 41, 59, 0.5); --external-stroke: #94a3b8; --toolbar-bg: rgba(15, 23, 42, 0.8); --toolbar-border: #334155; --toolbar-text: #e2e8f0; --toolbar-hover: rgba(15, 23, 42, 0.95); --toolbar-menu-bg: #0f172a; --reader-accent: ; --flow-cycle: ; --flow-halo-peak: ; --flow-glow-peak: ; --flow-tail-peak: ; --flow-head-peak: ; --flow-wake-peak: ; --flow-ripple-peak: ; --flow-peak: ; }
+@media (prefers-color-scheme: light) { :root, svg { --bg: #f4f5f7; --grid: #e9edf2; --canvas-dot: #e2e7ec; --text: #111827; --text-muted: #5b6474; --text-dim: #9aa3b2; --text-faint: #6b7280; --panel: #ffffff; --panel-border: #e5e7eb; --lane-fill: rgba(248, 250, 252, 0.65); --lane-stroke: #cbd5e1; --arrow: #64748b; --arrow-emphasis: #059669; --edge-label: #5b6474; --mask: #ffffff; --frontend-fill: rgba(34, 211, 238, 0.15); --frontend-stroke: #0891b2; --backend-fill: rgba(52, 211, 153, 0.18); --backend-stroke: #059669; --database-fill: rgba(167, 139, 250, 0.2); --database-stroke: #7c3aed; --cloud-fill: rgba(251, 191, 36, 0.18); --cloud-stroke: #d97706; --security-fill: rgba(251, 113, 133, 0.15); --security-stroke: #e11d48; --messagebus-fill: rgba(251, 146, 60, 0.15); --messagebus-stroke: #ea580c; --external-fill: rgba(148, 163, 184, 0.18); --external-stroke: #64748b; --toolbar-bg: rgba(255, 255, 255, 0.92); --toolbar-border: #cbd5e1; --toolbar-text: #334155; --toolbar-hover: #ffffff; --toolbar-menu-bg: #ffffff; --reader-accent: #077f9c; --flow-cycle: ; --flow-halo-peak: ; --flow-glow-peak: ; --flow-tail-peak: ; --flow-head-peak: ; --flow-wake-peak: ; --flow-ripple-peak: ; --flow-peak: ; } }
+svg[data-theme="light"] { --bg: #f4f5f7; --grid: #e9edf2; --canvas-dot: #e2e7ec; --text: #111827; --text-muted: #5b6474; --text-dim: #9aa3b2; --text-faint: #6b7280; --panel: #ffffff; --panel-border: #e5e7eb; --lane-fill: rgba(248, 250, 252, 0.65); --lane-stroke: #cbd5e1; --arrow: #64748b; --arrow-emphasis: #059669; --edge-label: #5b6474; --mask: #ffffff; --frontend-fill: rgba(34, 211, 238, 0.15); --frontend-stroke: #0891b2; --backend-fill: rgba(52, 211, 153, 0.18); --backend-stroke: #059669; --database-fill: rgba(167, 139, 250, 0.2); --database-stroke: #7c3aed; --cloud-fill: rgba(251, 191, 36, 0.18); --cloud-stroke: #d97706; --security-fill: rgba(251, 113, 133, 0.15); --security-stroke: #e11d48; --messagebus-fill: rgba(251, 146, 60, 0.15); --messagebus-stroke: #ea580c; --external-fill: rgba(148, 163, 184, 0.18); --external-stroke: #64748b; --toolbar-bg: rgba(255, 255, 255, 0.92); --toolbar-border: #cbd5e1; --toolbar-text: #334155; --toolbar-hover: #ffffff; --toolbar-menu-bg: #ffffff; --reader-accent: #077f9c; --flow-cycle: ; --flow-halo-peak: ; --flow-glow-peak: ; --flow-tail-peak: ; --flow-head-peak: ; --flow-wake-peak: ; --flow-ripple-peak: ; --flow-peak: ; }
+svg[data-theme="dark"] { --bg: #020617; --grid: #1e293b; --canvas-dot: rgba(148, 163, 184, 0.16); --text: #ffffff; --text-muted: #94a3b8; --text-dim: #475569; --text-faint: #7d8da1; --panel: rgba(15, 23, 42, 0.5); --panel-border: #1e293b; --lane-fill: rgba(15, 23, 42, 0.22); --lane-stroke: #334155; --arrow: #94a3b8; --arrow-emphasis: #34d399; --edge-label: #94a3b8; --mask: #0f172a; --frontend-fill: rgba(8, 51, 68, 0.4); --frontend-stroke: #22d3ee; --backend-fill: rgba(6, 78, 59, 0.4); --backend-stroke: #34d399; --database-fill: rgba(76, 29, 149, 0.4); --database-stroke: #a78bfa; --cloud-fill: rgba(120, 53, 15, 0.3); --cloud-stroke: #fbbf24; --security-fill: rgba(136, 19, 55, 0.4); --security-stroke: #fb7185; --messagebus-fill: rgba(251, 146, 60, 0.3); --messagebus-stroke: #fb923c; --external-fill: rgba(30, 41, 59, 0.5); --external-stroke: #94a3b8; --toolbar-bg: rgba(15, 23, 42, 0.8); --toolbar-border: #334155; --toolbar-text: #e2e8f0; --toolbar-hover: rgba(15, 23, 42, 0.95); --toolbar-menu-bg: #0f172a; --reader-accent: ; --flow-cycle: ; --flow-halo-peak: ; --flow-glow-peak: ; --flow-tail-peak: ; --flow-head-peak: ; --flow-wake-peak: ; --flow-ripple-peak: ; --flow-peak: ; }
 rect.c-bg-rect { fill: var(--bg); }
-</style><rect x="0" y="0" width="807" height="948" class="c-bg-rect"/><metadata id="archify-software-notices">NOTICE
+</style><rect x="0" y="0" width="1180" height="516" class="c-bg-rect"/><metadata id="archify-software-notices">NOTICE
 Archify
 Copyright (c) 2026 tt-a1i (Archify)
 Copyright (c) 2025 Cocoon AI
@@ -1053,8 +1005,8 @@ The Atlas 3D view includes the unmodified minified build of
 License. It is embedded in the analysis page and runs only when Atlas 3D is
 opened. The complete license is preserved in
 `modules/code-analysis/overlay/vendor/THREE-LICENSE.txt` in the packaged Skill.</metadata>
-        <title id="archify-diagram-title">Cấu trúc hệ sinh thái mã nguồn SIU Sirocco</title>
-        <desc id="archify-diagram-description">A hierarchy diagram generated by Archify.</desc>
+        <title id="archify-diagram-title">Hệ sinh thái SIU Sirocco · 1 Core · 2 ứng dụng độc lập</title>
+        <desc id="archify-diagram-description">An architecture diagram generated by Archify.</desc>
         <!-- Definitions -->
         <defs>
           <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -1074,242 +1026,299 @@ opened. The complete license is preserved in
           </pattern>
         </defs>
         <style>
-          svg[data-tree-ui] .tree-hue-root { --tree-hue: var(--text-muted); --tree-wash: transparent; }
-          svg[data-tree-ui] .tree-hue-backend { --tree-hue: var(--backend-stroke); --tree-wash: var(--backend-fill); }
-          svg[data-tree-ui] .tree-hue-database { --tree-hue: var(--database-stroke); --tree-wash: var(--database-fill); }
-          svg[data-tree-ui] .tree-hue-cloud { --tree-hue: var(--cloud-stroke); --tree-wash: var(--cloud-fill); }
-          svg[data-tree-ui] .tree-hue-frontend { --tree-hue: var(--frontend-stroke); --tree-wash: var(--frontend-fill); }
-          svg[data-tree-ui] .tree-hue-messagebus { --tree-hue: var(--messagebus-stroke); --tree-wash: var(--messagebus-fill); }
-          svg[data-tree-ui] .tree-hue-external { --tree-hue: var(--external-stroke); --tree-wash: var(--external-fill); }
-          svg[data-tree-ui] .tree-edge { stroke-linejoin: round; stroke-linecap: round; }
-          svg[data-tree-ui] .tree-edge-trunk { stroke: color-mix(in srgb, var(--text) 18%, var(--arrow)); }
-          svg[data-tree-ui] .tree-edge-hued { stroke: color-mix(in srgb, var(--tree-hue) 42%, var(--arrow)); }
-          svg[data-tree-ui] .tree-root { fill: var(--text); stroke: none; }
-          svg[data-tree-ui] [data-tree-depth="0"] .tree-label { fill: var(--mask); }
-          svg[data-tree-ui] [data-tree-depth="0"] .tree-sublabel { fill: var(--mask); opacity: 0.68; }
-          svg[data-tree-ui] .tree-branch { fill: var(--tree-wash); stroke: color-mix(in srgb, var(--tree-hue) 48%, var(--lane-stroke)); }
-          svg[data-tree-ui] .tree-leaf { fill: var(--mask); stroke: color-mix(in srgb, var(--tree-hue) 22%, var(--lane-stroke)); }
-          svg[data-tree-ui] .tree-socket { fill: var(--mask); stroke: var(--tree-hue); pointer-events: none; }
-          svg[data-tree-ui] .tree-accent { stroke: var(--tree-hue); pointer-events: none; }
-          svg[data-tree-ui] [data-tree-stack] { display: none; fill: var(--mask); stroke: color-mix(in srgb, var(--tree-hue) 70%, var(--lane-stroke)); }
-          svg[data-tree-ui] [data-tree-collapsed] [data-tree-stack] { display: inline; }
-          svg[data-tree-ui] [data-tree-hidden] { display: none; }
-          svg[data-tree-ui] .tree-toggle-hit { fill: transparent; }
-          svg[data-tree-ui] .tree-toggle-disc { fill: var(--mask); stroke: color-mix(in srgb, var(--tree-hue) 55%, var(--lane-stroke)); transition: stroke 0.15s ease, fill 0.15s ease; }
-          svg[data-tree-ui] .tree-toggle-glyph { stroke: var(--text-muted); fill: none; transition: stroke 0.15s ease; }
-          svg[data-tree-ui] .tree-toggle-count { display: none; }
-          svg[data-tree-ui] .tree-count-pill { fill: var(--tree-hue); stroke: none; }
-          svg[data-tree-ui] .tree-toggle-count text { fill: var(--mask); }
-          svg[data-tree-ui] [data-tree-toggle] { cursor: pointer; outline: none; }
-          svg[data-tree-ui] [data-tree-toggle][aria-expanded="true"] .tree-toggle-plus { display: none; }
-          svg[data-tree-ui] [data-tree-toggle][aria-expanded="false"] .tree-toggle-count { display: inline; }
-          svg[data-tree-ui] [data-tree-toggle][aria-expanded="false"] .tree-toggle-disc { fill: var(--tree-hue); stroke: var(--tree-hue); }
-          svg[data-tree-ui] [data-tree-toggle][aria-expanded="false"] .tree-toggle-glyph { stroke: var(--mask); }
-          svg[data-tree-ui] [data-tree-toggle]:hover .tree-toggle-disc,
-          svg[data-tree-ui] [data-tree-toggle]:focus-visible .tree-toggle-disc { stroke: var(--tree-hue); stroke-width: 2; }
-          svg[data-tree-ui] [data-tree-toggle]:hover .tree-toggle-glyph,
-          svg[data-tree-ui] [data-tree-toggle]:focus-visible .tree-toggle-glyph { stroke: var(--text); }
-          svg[data-tree-ui] [data-tree-expand-all] { cursor: pointer; outline: none; }
-          svg[data-tree-ui] [data-tree-expand-all] rect { fill: var(--mask); stroke: var(--lane-stroke); }
-          svg[data-tree-ui] [data-tree-expand-all]:is(:hover, :focus-visible) rect { stroke: var(--arrow-emphasis); stroke-width: 2; }
-          svg[data-tree-ui]:not([data-tree-any-collapsed]) [data-tree-expand-all] { display: none; }
-          svg[data-tree-ui] [data-node-id][data-emphasis] &gt; :is(.tree-root, .tree-branch, .tree-leaf) { stroke-width: 3.2; }
+          svg[data-node-ui] [data-node-id] &gt; rect:not(.c-mask) { stroke-width: 1.25px; }
+          :is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-frontend { fill: color-mix(in srgb, var(--frontend-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--frontend-stroke) 72%, var(--mask)); }
+          :is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-backend { fill: color-mix(in srgb, var(--backend-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--backend-stroke) 72%, var(--mask)); }
+          :is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-database { fill: color-mix(in srgb, var(--database-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--database-stroke) 72%, var(--mask)); }
+          :is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-cloud { fill: color-mix(in srgb, var(--cloud-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--cloud-stroke) 72%, var(--mask)); }
+          :is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-security { fill: color-mix(in srgb, var(--security-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--security-stroke) 72%, var(--mask)); }
+          :is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-messagebus { fill: color-mix(in srgb, var(--messagebus-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--messagebus-stroke) 72%, var(--mask)); }
+          :is([data-theme="dark"] svg[data-node-ui], svg[data-node-ui][data-theme="dark"]) [data-node-id] &gt; rect:not(.c-mask).c-external { fill: color-mix(in srgb, var(--external-stroke) 13%, var(--mask)); stroke: color-mix(in srgb, var(--external-stroke) 72%, var(--mask)); }
+          svg[data-node-ui]:is([data-preset="classic"], [data-preset="signal-flow"], [data-preset="editorial"]) .c-region { fill: color-mix(in srgb, var(--cloud-stroke) 3%, transparent); stroke: color-mix(in srgb, var(--cloud-stroke) 42%, var(--lane-stroke)); stroke-dasharray: none; }
+          svg[data-node-ui] .c-security-group { stroke: color-mix(in srgb, var(--security-stroke) 58%, var(--lane-stroke)); }
+          svg[data-node-ui]:is([data-preset="classic"], [data-preset="signal-flow"], [data-preset="editorial"]) .c-security-group { stroke-dasharray: 4 3; }
+          svg[data-node-ui]:is([data-preset="classic"], [data-preset="signal-flow"], [data-preset="editorial"]) .c-lane { stroke: var(--lane-stroke); stroke-dasharray: none; }
+          svg[data-node-ui] [data-graph-role="structural-frame-label-mask"] { rx: 5px; fill: color-mix(in srgb, var(--cloud-stroke) 10%, var(--mask)); stroke: color-mix(in srgb, var(--cloud-stroke) 38%, var(--mask)); stroke-width: .8px; }
+          svg[data-node-ui] [data-composition-frame-kind="security-group"] &gt; [data-graph-role="structural-frame-label-mask"] { fill: color-mix(in srgb, var(--security-stroke) 9%, var(--mask)); stroke: color-mix(in srgb, var(--security-stroke) 36%, var(--mask)); }
+          svg[data-node-ui] .phase-rule { opacity: .5; stroke-dasharray: none; }
+          svg[data-node-ui] .phase-chip { stroke: var(--lane-stroke); stroke-width: .75px; }
+          svg[data-node-ui] g[data-edge-from] &gt; rect.c-mask { rx: 7px; stroke: var(--lane-stroke); stroke-width: .75px; }
+          svg[data-node-ui][data-preset="blueprint"] :is([data-graph-role="structural-frame-label-mask"], g[data-edge-from] &gt; rect.c-mask, .phase-chip) { rx: 2px; }
+          svg[data-node-ui][data-preset="editorial"] :is([data-graph-role="structural-frame-label-mask"], g[data-edge-from] &gt; rect.c-mask, .phase-chip) { rx: 3px; }
         </style>
 
         <!-- Background Grid -->
         <rect width="100%" height="100%" fill="url(#grid)"/>
 
-        <!-- Containment links -->
-        <path data-edge-from="org" data-edge-to="core" data-edge-key="0" data-tree-ancestors="org" data-composition-points="192,109;240,109" d="M 192 109 L 240 109" class="a-default tree-edge tree-edge-trunk" data-animate="edge" style="--step: 1;" stroke-width="1.8"/>
-        <path data-edge-from="core" data-edge-to="core_api" data-edge-key="1" data-tree-ancestors="core org" data-composition-points="420,109;444,109;444,100.5;468,100.5" d="M 420 109 L 439.75 109 Q 444 109 444 104.75 L 444 104.75 Q 444 100.5 448.25 100.5 L 468 100.5" class="a-default tree-edge tree-edge-hued tree-hue-backend" data-animate="edge" style="--step: 2;" stroke-width="1.5"/>
-        <path data-edge-from="core" data-edge-to="core_infra" data-edge-key="2" data-tree-ancestors="core org" data-composition-points="420,109;444,109;444,207;468,207" d="M 420 109 L 434 109 Q 444 109 444 119 L 444 197 Q 444 207 454 207 L 468 207" class="a-default tree-edge tree-edge-hued tree-hue-backend" data-animate="edge" style="--step: 2;" stroke-width="1.5"/>
-        <path data-edge-from="core" data-edge-to="core_guide" data-edge-key="3" data-tree-ancestors="core org" data-composition-points="420,109;444,109;444,306.5;468,306.5" d="M 420 109 L 434 109 Q 444 109 444 119 L 444 296.5 Q 444 306.5 454 306.5 L 468 306.5" class="a-default tree-edge tree-edge-hued tree-hue-backend" data-animate="edge" style="--step: 2;" stroke-width="1.5"/>
-        <path data-edge-from="org" data-edge-to="schoolops" data-edge-key="4" data-tree-ancestors="org" data-composition-points="192,109;216,109;216,399;240,399" d="M 192 109 L 206 109 Q 216 109 216 119 L 216 389 Q 216 399 226 399 L 240 399" class="a-default tree-edge tree-edge-trunk" data-animate="edge" style="--step: 1;" stroke-width="1.8"/>
-        <path data-edge-from="schoolops" data-edge-to="so_app" data-edge-key="5" data-tree-ancestors="schoolops org" data-composition-points="420,399;444,399;444,390.5;468,390.5" d="M 420 399 L 439.75 399 Q 444 399 444 394.75 L 444 394.75 Q 444 390.5 448.25 390.5 L 468 390.5" class="a-default tree-edge tree-edge-hued tree-hue-database" data-animate="edge" style="--step: 2;" stroke-width="1.5"/>
-        <path data-edge-from="schoolops" data-edge-to="so_packs" data-edge-key="6" data-tree-ancestors="schoolops org" data-composition-points="420,399;444,399;444,490;468,490" d="M 420 399 L 434 399 Q 444 399 444 409 L 444 480 Q 444 490 454 490 L 468 490" class="a-default tree-edge tree-edge-hued tree-hue-database" data-animate="edge" style="--step: 2;" stroke-width="1.5"/>
-        <path data-edge-from="schoolops" data-edge-to="so_qa" data-edge-key="7" data-tree-ancestors="schoolops org" data-composition-points="420,399;444,399;444,589.5;468,589.5" d="M 420 399 L 434 399 Q 444 399 444 409 L 444 579.5 Q 444 589.5 454 589.5 L 468 589.5" class="a-default tree-edge tree-edge-hued tree-hue-database" data-animate="edge" style="--step: 2;" stroke-width="1.5"/>
-        <path data-edge-from="org" data-edge-to="ecotrack" data-edge-key="8" data-tree-ancestors="org" data-composition-points="192,109;216,109;216,689.5;240,689.5" d="M 192 109 L 206 109 Q 216 109 216 119 L 216 679.5 Q 216 689.5 226 689.5 L 240 689.5" class="a-default tree-edge tree-edge-trunk" data-animate="edge" style="--step: 1;" stroke-width="1.8"/>
-        <path data-edge-from="ecotrack" data-edge-to="eco_aqi" data-edge-key="9" data-tree-ancestors="ecotrack org" data-composition-points="420,689;468,689" d="M 420 689 L 468 689" class="a-default tree-edge tree-edge-hued tree-hue-cloud" data-animate="edge" style="--step: 2;" stroke-width="1.5"/>
-        <path data-edge-from="ecotrack" data-edge-to="eco_core" data-edge-key="10" data-tree-ancestors="ecotrack org" data-composition-points="420,689.5;444,689.5;444,788.5;468,788.5" d="M 420 689.5 L 434 689.5 Q 444 689.5 444 699.5 L 444 778.5 Q 444 788.5 454 788.5 L 468 788.5" class="a-default tree-edge tree-edge-hued tree-hue-cloud" data-animate="edge" style="--step: 2;" stroke-width="1.5"/>
-        <path data-edge-from="org" data-edge-to="org_profile" data-edge-key="11" data-tree-ancestors="org" data-composition-points="192,109;216,109;216,879.5;240,879.5" d="M 192 109 L 206 109 Q 216 109 216 119 L 216 869.5 Q 216 879.5 226 879.5 L 240 879.5" class="a-default tree-edge tree-edge-trunk" data-animate="edge" style="--step: 1;" stroke-width="1.8"/>
+        <!-- Boundaries (behind everything) -->
+        <rect data-graph-role="structural-frame" data-composition-frame-kind="region" data-composition-frame-id="0" data-composition-frame-label="Kho sirocco-schoolops" x="10" y="186" width="546" height="118" rx="12" class="c-region" stroke-width="1"/>
 
-        <!-- Nodes -->
-        <g id="node-org" data-node-id="org" data-node-label="SIU Sirocco · OLP 2026" tabindex="0" role="button" aria-label="Focus SIU Sirocco · OLP 2026, Hệ sinh thái 1 Core · 2 ứng dụng độc lập, Root" aria-pressed="false" data-node-kind="frontend" data-node-sublabel="Hệ sinh thái 1 Core · 2 ứng dụng độc lập" data-node-context="Root" data-emphasis="" data-tree-depth="0" class="tree-hue-root">
-          <title>SIU Sirocco · OLP 2026 · Hệ sinh thái 1 Core · 2 ứng dụng độc lập · Root</title>
-          <rect data-tree-stack="" x="37" y="69" width="160" height="90" rx="10" class="tree-stack-frontend" stroke-width="1.2"/>
-          <rect x="32" y="64" width="160" height="90" rx="10" class="c-mask"/>
-          <rect x="32" y="64" width="160" height="90" rx="10" class="c-frontend tree-root" data-animate="node" style="--step: 0; --flow-node-name: archify-relay-node-0;" stroke-width="0"/>
+        <rect data-graph-role="structural-frame" data-composition-frame-kind="region" data-composition-frame-id="1" data-composition-frame-label="Kho Eco-Track" x="10" y="330" width="546" height="118" rx="12" class="c-region" stroke-width="1"/>
 
+        <rect data-graph-role="structural-frame" data-composition-frame-kind="security-group" data-composition-frame-id="2" data-composition-frame-label="Kho sirocco-core (Headless)" x="594" y="42" width="546" height="406" rx="8" class="c-security-group" stroke-width="1"/>
 
-          <text data-node-label="" x="112" class="t-primary tree-label" font-size="14.5" font-weight="750" text-anchor="middle"><tspan x="112" y="88.5">SIU Sirocco ·</tspan><tspan x="112" y="105.5">OLP 2026</tspan></text>
-          <text x="112" class="t-muted tree-sublabel" font-size="11" text-anchor="middle"><tspan x="112" y="124.5">Hệ sinh thái 1 Core</tspan><tspan x="112" y="138.5">· 2 ứng dụng độc lập</tspan></text>
+        <!-- Connection paths (before components for correct z-order) -->
+        <g data-graph-role="automatic-crossover" style="--step:0">
+          <path data-graph-role="automatic-crossover-underlay" d="M 234 106 L 624 106" fill="none" stroke="var(--mask)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" pointer-events="none"/>
+          <path data-edge-from="users" data-edge-to="keycloak" data-edge-label="OIDC PKCE" data-edge-key="0" data-edge-id="u-kc" data-composition-points="234,106;624,106" data-composition-crossover="halo" data-composition-independent="true" d="M 234 106 L 624 106" class="a-security" data-animate="edge" style="--step: 0;" stroke-width="1.5" marker-end="url(#arrowhead-security)"/>
         </g>
-        <g id="node-core" data-node-id="core" data-node-label="sirocco-core (v0.2.1)" tabindex="0" role="button" aria-label="Focus sirocco-core (v0.2.1), Nền tảng headless · Apache-2.0, Branch" aria-pressed="false" data-node-kind="backend" data-node-sublabel="Nền tảng headless · Apache-2.0" data-node-context="Branch" data-tree-depth="1" data-tree-ancestors="org" class="tree-hue-backend">
-          <title>sirocco-core (v0.2.1) · Nền tảng headless · Apache-2.0 · Branch</title>
-          <rect data-tree-stack="" x="245" y="69" width="180" height="90" rx="10" class="tree-stack-backend" stroke-width="1.2"/>
-          <rect x="240" y="64" width="180" height="90" rx="10" class="c-mask"/>
-          <rect x="240" y="64" width="180" height="90" rx="10" class="c-backend tree-branch" data-animate="node" style="--step: 1; --flow-node-name: archify-relay-node-1;" stroke-width="1.2"/>
-
-          <circle cx="240" cy="109" r="2.6" class="tree-socket" stroke-width="1.4"/>
-          <text data-node-label="" x="330" class="t-primary tree-label" font-size="13" font-weight="700" text-anchor="middle"><tspan x="330" y="88.5">sirocco-core</tspan><tspan x="330" y="105.5">(v0.2.1)</tspan></text>
-          <text x="330" class="t-muted tree-sublabel" font-size="11" text-anchor="middle"><tspan x="330" y="124.5">Nền tảng headless</tspan><tspan x="330" y="138.5">· Apache-2.0</tspan></text>
+        <g data-graph-role="automatic-crossover" style="--step:1">
+          <path data-graph-role="automatic-crossover-underlay" d="M 137 140 L 137 216" fill="none" stroke="var(--mask)" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round" pointer-events="none"/>
+          <path data-edge-from="users" data-edge-to="so_web" data-edge-label="G01 / G03" data-edge-key="1" data-edge-id="u-so" data-composition-points="137,140;137,216" data-composition-crossover="halo" data-composition-independent="true" d="M 137 140 L 137 216" class="a-emphasis" data-animate="edge" style="--step: 1;" stroke-width="1.8" marker-end="url(#arrowhead-emphasis)"/>
         </g>
-        <g id="node-core_api" data-node-id="core_api" data-node-label="src/ &amp; Connector v2" tabindex="0" role="button" aria-label="Focus src/ &amp; Connector v2, API theo scope, journal &amp; biên nhận, Leaf" aria-pressed="false" data-node-kind="external" data-node-sublabel="API theo scope, journal &amp; biên nhận" data-node-context="Leaf" data-tree-depth="2" data-tree-ancestors="core org" class="tree-hue-backend">
-          <title>src/ &amp; Connector v2 · API theo scope, journal &amp; biên nhận · Leaf</title>
-
-          <rect x="468" y="64" width="295" height="73" rx="10" class="c-mask"/>
-          <rect x="468" y="64" width="295" height="73" rx="10" class="c-external tree-leaf" data-animate="node" style="--step: 2; --flow-node-name: archify-relay-node-5;" stroke-width="1"/>
-
-          <circle cx="468" cy="100.5" r="2.6" class="tree-socket" stroke-width="1.4"/>
-          <text data-node-label="" x="615.5" class="t-primary tree-label" font-size="13" font-weight="560" text-anchor="middle"><tspan x="615.5" y="88.5">src/ &amp; Connector v2</tspan></text>
-          <text x="615.5" class="t-muted tree-sublabel" font-size="11" text-anchor="middle"><tspan x="615.5" y="107.5">API theo scope, journal</tspan><tspan x="615.5" y="121.5">&amp; biên nhận</tspan></text>
+        <g data-graph-role="automatic-crossover" style="--step:2">
+          <path data-graph-role="automatic-crossover-underlay" d="M 40 106 L 24 106 Q 16 106 16 114 L 16 386 Q 16 394 24 394 L 40 394" fill="none" stroke="var(--mask)" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round" pointer-events="none"/>
+          <path data-edge-from="users" data-edge-to="eco_web" data-edge-label="AQI / Review" data-edge-key="2" data-edge-id="u-eco" data-composition-points="40,106;16,106;16,394;40,394" data-composition-crossover="halo" data-composition-independent="true" d="M 40 106 L 24 106 Q 16 106 16 114 L 16 386 Q 16 394 24 394 L 40 394" class="a-emphasis" data-animate="edge" style="--step: 2;" stroke-width="1.8" marker-end="url(#arrowhead-emphasis)"/>
         </g>
-        <g id="node-core_infra" data-node-id="core_infra" data-node-label="infra/ (5 dịch vụ nền)" tabindex="0" role="button" aria-label="Focus infra/ (5 dịch vụ nền), Keycloak, APISIX, Flowable, SeaweedFS, ClamAV, Leaf" aria-pressed="false" data-node-kind="external" data-node-sublabel="Keycloak, APISIX, Flowable, SeaweedFS, ClamAV" data-node-context="Leaf" data-tree-depth="2" data-tree-ancestors="core org" class="tree-hue-backend">
-          <title>infra/ (5 dịch vụ nền) · Keycloak, APISIX, Flowable, SeaweedFS, ClamAV · Leaf</title>
-
-          <rect x="468" y="155" width="295" height="104" rx="10" class="c-mask"/>
-          <rect x="468" y="155" width="295" height="104" rx="10" class="c-external tree-leaf" data-animate="node" style="--step: 2; --flow-node-name: archify-relay-node-6;" stroke-width="1"/>
-
-          <circle cx="468" cy="207" r="2.6" class="tree-socket" stroke-width="1.4"/>
-          <text data-node-label="" x="615.5" class="t-primary tree-label" font-size="13" font-weight="560" text-anchor="middle"><tspan x="615.5" y="179.5">infra/ (5 dịch</tspan><tspan x="615.5" y="196.5">vụ nền)</tspan></text>
-          <text x="615.5" class="t-muted tree-sublabel" font-size="11" text-anchor="middle"><tspan x="615.5" y="215.5">Keycloak, APISIX,</tspan><tspan x="615.5" y="229.5">Flowable,</tspan><tspan x="615.5" y="243.5">SeaweedFS, ClamAV</tspan></text>
+        <g data-graph-role="automatic-crossover" style="--step:3">
+          <path data-graph-role="automatic-crossover-underlay" d="M 234 250 L 332 250" fill="none" stroke="var(--mask)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" pointer-events="none"/>
+          <path data-edge-from="so_web" data-edge-to="so_api" data-edge-label="REST + JWT" data-edge-key="3" data-edge-id="so-w-a" data-composition-points="234,250;332,250" data-composition-crossover="halo" data-composition-independent="true" d="M 234 250 L 332 250" class="a-default" data-animate="edge" style="--step: 3;" stroke-width="1.5" marker-end="url(#arrowhead)"/>
         </g>
-        <g id="node-core_guide" data-node-id="core_guide" data-node-label="tools/sirocco-integration-guide/" tabindex="0" role="button" aria-label="Focus tools/sirocco-integration-guide/, Công cụ kết nối 3 bước &amp; SDK, Leaf" aria-pressed="false" data-node-kind="external" data-node-sublabel="Công cụ kết nối 3 bước &amp; SDK" data-node-context="Leaf" data-tree-depth="2" data-tree-ancestors="core org" class="tree-hue-backend">
-          <title>tools/sirocco-integration-guide/ · Công cụ kết nối 3 bước &amp; SDK · Leaf</title>
-
-          <rect x="468" y="277" width="295" height="59" rx="10" class="c-mask"/>
-          <rect x="468" y="277" width="295" height="59" rx="10" class="c-external tree-leaf" data-animate="node" style="--step: 2; --flow-node-name: archify-relay-node-7;" stroke-width="1"/>
-
-          <circle cx="468" cy="306.5" r="2.6" class="tree-socket" stroke-width="1.4"/>
-          <text data-node-label="" x="615.5" class="t-primary tree-label" font-size="13" font-weight="560" text-anchor="middle"><tspan x="615.5" y="301.5">tools/sirocco-integration-guide/</tspan></text>
-          <text x="615.5" class="t-muted tree-sublabel" font-size="11" text-anchor="middle"><tspan x="615.5" y="320.5">Công cụ kết nối 3 bước &amp; SDK</tspan></text>
+        <g data-graph-role="automatic-crossover" style="--step:4">
+          <path data-graph-role="automatic-crossover-underlay" d="M 526 250 L 624 250" fill="none" stroke="var(--mask)" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round" pointer-events="none"/>
+          <path data-edge-from="so_api" data-edge-to="gateway" data-edge-label="Connector v2" data-edge-key="4" data-edge-id="so-gw" data-composition-points="526,250;624,250" data-composition-crossover="halo" data-composition-independent="true" d="M 526 250 L 624 250" class="a-emphasis" data-animate="edge" style="--step: 4;" stroke-width="1.8" marker-end="url(#arrowhead-emphasis)"/>
         </g>
-        <g id="node-schoolops" data-node-id="schoolops" data-node-label="sirocco-schoolops (v0.2.0)" tabindex="0" role="button" aria-label="Focus sirocco-schoolops (v0.2.0), Vận hành trường học · Apache-2.0, Branch" aria-pressed="false" data-node-kind="backend" data-node-sublabel="Vận hành trường học · Apache-2.0" data-node-context="Branch" data-tree-depth="1" data-tree-ancestors="org" class="tree-hue-database">
-          <title>sirocco-schoolops (v0.2.0) · Vận hành trường học · Apache-2.0 · Branch</title>
-          <rect data-tree-stack="" x="245" y="359" width="180" height="90" rx="10" class="tree-stack-backend" stroke-width="1.2"/>
-          <rect x="240" y="354" width="180" height="90" rx="10" class="c-mask"/>
-          <rect x="240" y="354" width="180" height="90" rx="10" class="c-backend tree-branch" data-animate="node" style="--step: 1; --flow-node-name: archify-relay-node-2;" stroke-width="1.2"/>
-
-          <circle cx="240" cy="399" r="2.6" class="tree-socket" stroke-width="1.4"/>
-          <text data-node-label="" x="330" class="t-primary tree-label" font-size="13" font-weight="700" text-anchor="middle"><tspan x="330" y="378.5">sirocco-schoolops</tspan><tspan x="330" y="395.5">(v0.2.0)</tspan></text>
-          <text x="330" class="t-muted tree-sublabel" font-size="11" text-anchor="middle"><tspan x="330" y="414.5">Vận hành trường học ·</tspan><tspan x="330" y="428.5">Apache-2.0</tspan></text>
+        <g data-graph-role="automatic-crossover" style="--step:5">
+          <path data-graph-role="automatic-crossover-underlay" d="M 234 394 L 332 394" fill="none" stroke="var(--mask)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" pointer-events="none"/>
+          <path data-edge-from="eco_web" data-edge-to="eco_api" data-edge-label="Review / LSTM" data-edge-key="5" data-edge-id="eco-w-a" data-composition-points="234,394;332,394" data-composition-crossover="halo" data-composition-independent="true" d="M 234 394 L 332 394" class="a-default" data-animate="edge" style="--step: 5;" stroke-width="1.5" marker-end="url(#arrowhead)"/>
         </g>
-        <g id="node-so_app" data-node-id="so_app" data-node-label="apps/web &amp; apps/api" tabindex="0" role="button" aria-label="Focus apps/web &amp; apps/api, React 19, Express, PostgreSQL nghiệp vụ, Leaf" aria-pressed="false" data-node-kind="external" data-node-sublabel="React 19, Express, PostgreSQL nghiệp vụ" data-node-context="Leaf" data-tree-depth="2" data-tree-ancestors="schoolops org" class="tree-hue-database">
-          <title>apps/web &amp; apps/api · React 19, Express, PostgreSQL nghiệp vụ · Leaf</title>
-
-          <rect x="468" y="354" width="295" height="73" rx="10" class="c-mask"/>
-          <rect x="468" y="354" width="295" height="73" rx="10" class="c-external tree-leaf" data-animate="node" style="--step: 2; --flow-node-name: archify-relay-node-8;" stroke-width="1"/>
-
-          <circle cx="468" cy="390.5" r="2.6" class="tree-socket" stroke-width="1.4"/>
-          <text data-node-label="" x="615.5" class="t-primary tree-label" font-size="13" font-weight="560" text-anchor="middle"><tspan x="615.5" y="378.5">apps/web &amp; apps/api</tspan></text>
-          <text x="615.5" class="t-muted tree-sublabel" font-size="11" text-anchor="middle"><tspan x="615.5" y="397.5">React 19, Express,</tspan><tspan x="615.5" y="411.5">PostgreSQL nghiệp vụ</tspan></text>
+        <g data-graph-role="automatic-crossover" style="--step:6">
+          <path data-graph-role="automatic-crossover-underlay" d="M 429 360 L 429 330 Q 429 322 437 322 L 713 322 Q 721 322 721 314 L 721 284" fill="none" stroke="var(--mask)" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round" pointer-events="none"/>
+          <path data-edge-from="eco_api" data-edge-to="gateway" data-edge-label="Outbox" data-edge-key="6" data-edge-id="eco-gw" data-composition-points="429,360;429,322;721,322;721,284" data-composition-crossover="halo" data-composition-independent="true" d="M 429 360 L 429 330 Q 429 322 437 322 L 713 322 Q 721 322 721 314 L 721 284" class="a-emphasis" data-animate="edge" style="--step: 6;" stroke-width="1.8" marker-end="url(#arrowhead-emphasis)"/>
         </g>
-        <g id="node-so_packs" data-node-id="so_packs" data-node-label="packs/g01 &amp; packs/g03" tabindex="0" role="button" aria-label="Focus packs/g01 &amp; packs/g03, Sự cố 6 bước v4 &amp; An toàn hạn chế ACL, Leaf" aria-pressed="false" data-node-kind="external" data-node-sublabel="Sự cố 6 bước v4 &amp; An toàn hạn chế ACL" data-node-context="Leaf" data-tree-depth="2" data-tree-ancestors="schoolops org" class="tree-hue-database">
-          <title>packs/g01 &amp; packs/g03 · Sự cố 6 bước v4 &amp; An toàn hạn chế ACL · Leaf</title>
-
-          <rect x="468" y="445" width="295" height="90" rx="10" class="c-mask"/>
-          <rect x="468" y="445" width="295" height="90" rx="10" class="c-external tree-leaf" data-animate="node" style="--step: 2; --flow-node-name: archify-relay-node-9;" stroke-width="1"/>
-
-          <circle cx="468" cy="490" r="2.6" class="tree-socket" stroke-width="1.4"/>
-          <text data-node-label="" x="615.5" class="t-primary tree-label" font-size="13" font-weight="560" text-anchor="middle"><tspan x="615.5" y="469.5">packs/g01 &amp;</tspan><tspan x="615.5" y="486.5">packs/g03</tspan></text>
-          <text x="615.5" class="t-muted tree-sublabel" font-size="11" text-anchor="middle"><tspan x="615.5" y="505.5">Sự cố 6 bước v4 &amp;</tspan><tspan x="615.5" y="519.5">An toàn hạn chế ACL</tspan></text>
+        <g data-graph-role="automatic-crossover" style="--step:7">
+          <path data-graph-role="automatic-crossover-underlay" d="M 818 250 L 916 250" fill="none" stroke="var(--mask)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" pointer-events="none"/>
+          <path data-edge-from="gateway" data-edge-to="core_api" data-edge-label="Kiểm scope" data-edge-key="7" data-edge-id="gw-core" data-composition-points="818,250;916,250" data-composition-crossover="halo" data-composition-independent="true" d="M 818 250 L 916 250" class="a-security" data-animate="edge" style="--step: 7;" stroke-width="1.5" marker-end="url(#arrowhead-security)"/>
         </g>
-        <g id="node-so_qa" data-node-id="so_qa" data-node-label="tests/e2e &amp; scripts/" tabindex="0" role="button" aria-label="Focus tests/e2e &amp; scripts/, 55/55 Playwright E2E, siu:setup, legal:audit, Leaf" aria-pressed="false" data-node-kind="external" data-node-sublabel="55/55 Playwright E2E, siu:setup, legal:audit" data-node-context="Leaf" data-tree-depth="2" data-tree-ancestors="schoolops org" class="tree-hue-database">
-          <title>tests/e2e &amp; scripts/ · 55/55 Playwright E2E, siu:setup, legal:audit · Leaf</title>
-
-          <rect x="468" y="553" width="295" height="73" rx="10" class="c-mask"/>
-          <rect x="468" y="553" width="295" height="73" rx="10" class="c-external tree-leaf" data-animate="node" style="--step: 2; --flow-node-name: archify-relay-node-10;" stroke-width="1"/>
-
-          <circle cx="468" cy="589.5" r="2.6" class="tree-socket" stroke-width="1.4"/>
-          <text data-node-label="" x="615.5" class="t-primary tree-label" font-size="13" font-weight="560" text-anchor="middle"><tspan x="615.5" y="577.5">tests/e2e &amp; scripts/</tspan></text>
-          <text x="615.5" class="t-muted tree-sublabel" font-size="11" text-anchor="middle"><tspan x="615.5" y="596.5">55/55 Playwright E2E,</tspan><tspan x="615.5" y="610.5">siu:setup, legal:audit</tspan></text>
+        <g data-graph-role="automatic-crossover" style="--step:8">
+          <path data-graph-role="automatic-crossover-underlay" d="M 1013 216 L 1013 114 Q 1013 106 1005 106 L 818 106" fill="none" stroke="var(--mask)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" pointer-events="none"/>
+          <path data-edge-from="core_api" data-edge-to="keycloak" data-edge-label="Identity" data-edge-key="8" data-edge-id="core-kc" data-composition-points="1013,216;1013,106;818,106" data-composition-crossover="halo" data-composition-independent="true" d="M 1013 216 L 1013 114 Q 1013 106 1005 106 L 818 106" class="a-security" data-animate="edge" style="--step: 8;" stroke-width="1.5" marker-end="url(#arrowhead-security)"/>
         </g>
-        <g id="node-ecotrack" data-node-id="ecotrack" data-node-label="Eco-Track (v2.0.0)" tabindex="0" role="button" aria-label="Focus Eco-Track (v2.0.0), Quan trắc AQI TP.HCM · GPL-3.0, Branch" aria-pressed="false" data-node-kind="backend" data-node-sublabel="Quan trắc AQI TP.HCM · GPL-3.0" data-node-context="Branch" data-tree-depth="1" data-tree-ancestors="org" class="tree-hue-cloud">
-          <title>Eco-Track (v2.0.0) · Quan trắc AQI TP.HCM · GPL-3.0 · Branch</title>
-          <rect data-tree-stack="" x="245" y="658" width="180" height="73" rx="10" class="tree-stack-backend" stroke-width="1.2"/>
-          <rect x="240" y="653" width="180" height="73" rx="10" class="c-mask"/>
-          <rect x="240" y="653" width="180" height="73" rx="10" class="c-backend tree-branch" data-animate="node" style="--step: 1; --flow-node-name: archify-relay-node-3;" stroke-width="1.2"/>
-
-          <circle cx="240" cy="689.5" r="2.6" class="tree-socket" stroke-width="1.4"/>
-          <text data-node-label="" x="330" class="t-primary tree-label" font-size="13" font-weight="700" text-anchor="middle"><tspan x="330" y="677.5">Eco-Track (v2.0.0)</tspan></text>
-          <text x="330" class="t-muted tree-sublabel" font-size="11" text-anchor="middle"><tspan x="330" y="696.5">Quan trắc AQI TP.HCM ·</tspan><tspan x="330" y="710.5">GPL-3.0</tspan></text>
+        <g data-graph-role="automatic-crossover" style="--step:9">
+          <path data-graph-role="automatic-crossover-underlay" d="M 916 264 L 875 264 Q 867 264 867 272 L 867 386 Q 867 394 859 394 L 818 394" fill="none" stroke="var(--mask)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" pointer-events="none"/>
+          <path data-edge-from="core_api" data-edge-to="flowable" data-edge-label="BPMN + Record" data-edge-key="9" data-edge-id="core-fl" data-composition-points="916,264;867,264;867,394;818,394" data-composition-crossover="halo" data-composition-independent="true" d="M 916 264 L 875 264 Q 867 264 867 272 L 867 386 Q 867 394 859 394 L 818 394" class="a-default" data-animate="edge" style="--step: 9;" stroke-width="1.5" marker-end="url(#arrowhead)"/>
         </g>
-        <g id="node-eco_aqi" data-node-id="eco_aqi" data-node-label="OpenAQ v3 · LSTM · NGSI-LD" tabindex="0" role="button" aria-label="Focus OpenAQ v3 · LSTM · NGSI-LD, Bản đồ AQI, dự báo 24h &amp; MongoDB riêng, Leaf" aria-pressed="false" data-node-kind="external" data-node-sublabel="Bản đồ AQI, dự báo 24h &amp; MongoDB riêng" data-node-context="Leaf" data-tree-depth="2" data-tree-ancestors="ecotrack org" class="tree-hue-cloud">
-          <title>OpenAQ v3 · LSTM · NGSI-LD · Bản đồ AQI, dự báo 24h &amp; MongoDB riêng · Leaf</title>
-
-          <rect x="468" y="644" width="295" height="90" rx="10" class="c-mask"/>
-          <rect x="468" y="644" width="295" height="90" rx="10" class="c-external tree-leaf" data-animate="node" style="--step: 2; --flow-node-name: archify-relay-node-11;" stroke-width="1"/>
-
-          <circle cx="468" cy="689" r="2.6" class="tree-socket" stroke-width="1.4"/>
-          <text data-node-label="" x="615.5" class="t-primary tree-label" font-size="13" font-weight="560" text-anchor="middle"><tspan x="615.5" y="668.5">OpenAQ v3 ·</tspan><tspan x="615.5" y="685.5">LSTM · NGSI-LD</tspan></text>
-          <text x="615.5" class="t-muted tree-sublabel" font-size="11" text-anchor="middle"><tspan x="615.5" y="704.5">Bản đồ AQI, dự báo</tspan><tspan x="615.5" y="718.5">24h &amp; MongoDB riêng</tspan></text>
-        </g>
-        <g id="node-eco_core" data-node-id="eco_core" data-node-label="integrations/sirocco/" tabindex="0" role="button" aria-label="Focus integrations/sirocco/, Review v2 PM2.5, chứng cứ &amp; OIDC PKCE, Leaf" aria-pressed="false" data-node-kind="external" data-node-sublabel="Review v2 PM2.5, chứng cứ &amp; OIDC PKCE" data-node-context="Leaf" data-tree-depth="2" data-tree-ancestors="ecotrack org" class="tree-hue-cloud">
-          <title>integrations/sirocco/ · Review v2 PM2.5, chứng cứ &amp; OIDC PKCE · Leaf</title>
-
-          <rect x="468" y="752" width="295" height="73" rx="10" class="c-mask"/>
-          <rect x="468" y="752" width="295" height="73" rx="10" class="c-external tree-leaf" data-animate="node" style="--step: 2; --flow-node-name: archify-relay-node-12;" stroke-width="1"/>
-
-          <circle cx="468" cy="788.5" r="2.6" class="tree-socket" stroke-width="1.4"/>
-          <text data-node-label="" x="615.5" class="t-primary tree-label" font-size="13" font-weight="560" text-anchor="middle"><tspan x="615.5" y="776.5">integrations/sirocco/</tspan></text>
-          <text x="615.5" class="t-muted tree-sublabel" font-size="11" text-anchor="middle"><tspan x="615.5" y="795.5">Review v2 PM2.5, chứng cứ</tspan><tspan x="615.5" y="809.5">&amp; OIDC PKCE</tspan></text>
-        </g>
-        <g id="node-org_profile" data-node-id="org_profile" data-node-label=".github/profile/" tabindex="0" role="button" aria-label="Focus .github/profile/, Hồ sơ tổ chức công khai SIU-Sirocco-2026, Leaf" aria-pressed="false" data-node-kind="external" data-node-sublabel="Hồ sơ tổ chức công khai SIU-Sirocco-2026" data-node-context="Leaf" data-tree-depth="1" data-tree-ancestors="org" class="tree-hue-frontend">
-          <title>.github/profile/ · Hồ sơ tổ chức công khai SIU-Sirocco-2026 · Leaf</title>
-
-          <rect x="240" y="843" width="180" height="73" rx="10" class="c-mask"/>
-          <rect x="240" y="843" width="180" height="73" rx="10" class="c-external tree-leaf" data-animate="node" style="--step: 1; --flow-node-name: archify-relay-node-4;" stroke-width="1"/>
-
-          <circle cx="240" cy="879.5" r="2.6" class="tree-socket" stroke-width="1.4"/>
-          <text data-node-label="" x="330" class="t-primary tree-label" font-size="13" font-weight="560" text-anchor="middle"><tspan x="330" y="867.5">.github/profile/</tspan></text>
-          <text x="330" class="t-muted tree-sublabel" font-size="11" text-anchor="middle"><tspan x="330" y="886.5">Hồ sơ tổ chức công</tspan><tspan x="330" y="900.5">khai SIU-Sirocco-2026</tspan></text>
+        <g data-graph-role="automatic-crossover" style="--step:10">
+          <path data-graph-role="automatic-crossover-underlay" d="M 1013 284 L 1013 360" fill="none" stroke="var(--mask)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" pointer-events="none"/>
+          <path data-edge-from="core_api" data-edge-to="files_av" data-edge-label="Quét tệp" data-edge-key="10" data-edge-id="core-fs" data-composition-points="1013,284;1013,360" data-composition-crossover="halo" data-composition-independent="true" d="M 1013 284 L 1013 360" class="a-security" data-animate="edge" style="--step: 10;" stroke-width="1.5" marker-end="url(#arrowhead-security)"/>
         </g>
 
-        <!-- Branch toggles -->
-        <g data-tree-toggle="org" data-tree-count="12" data-tree-label-collapse="Collapse SIU Sirocco · OLP 2026 (12 below)" data-tree-label-expand="Expand SIU Sirocco · OLP 2026 (12 hidden)" role="button" tabindex="0" aria-expanded="true" aria-label="Collapse SIU Sirocco · OLP 2026 (12 below)" class="tree-hue-root">
-          <circle cx="192" cy="109" r="14.5" class="tree-toggle-hit"/>
-          <circle cx="192" cy="109" r="7.5" class="tree-toggle-disc" stroke-width="1.2"/>
-          <path class="tree-toggle-glyph" d="M 188.85 109 H 195.15" stroke-width="1.5" stroke-linecap="round"/>
-          <path class="tree-toggle-glyph tree-toggle-plus" d="M 192 105.85 V 112.15" stroke-width="1.5" stroke-linecap="round"/>
-          <g class="tree-toggle-count">
-            <rect x="202.5" y="101.5" width="23.4" height="15" rx="7.5" class="tree-count-pill"/>
-            <text x="214.2" y="112.6" class="t-primary" font-size="10" font-weight="700" text-anchor="middle">12</text>
+        <!-- Components -->
+        <g id="node-users" data-node-id="users" data-node-label="Người dùng &amp; Thiết bị" tabindex="0" role="button" aria-label="Focus Người dùng &amp; Thiết bị, Web · Mobile 390px · QR, Architecture component" aria-pressed="false" data-node-kind="external" data-node-sublabel="Web · Mobile 390px · QR" data-node-tag="SSO PKCE" data-node-context="Architecture component">
+          <title>Người dùng &amp; Thiết bị · Web · Mobile 390px · QR · Architecture component · SSO PKCE</title>
+          <rect x="40" y="72" width="194" height="68" rx="8" class="c-mask"/>
+          <rect x="40" y="72" width="194" height="68" rx="8" class="c-external" data-animate="node" style="--step: 0; --flow-node-name: archify-relay-node-0;" stroke-width="1.5"/>
+          <g aria-hidden="true" data-semantic-sigil="external" class="semantic-sigil s-external" transform="translate(46 78) scale(0.6875)">
+            <rect x="2.5" y="5" width="8.5" height="8" rx="1.5"/>
+            <path d="M8 2.5h5.5V8M13.5 2.5 7.5 8.5"/>
           </g>
-        </g>
-        <g data-tree-toggle="core" data-tree-count="3" data-tree-ancestors="org" data-tree-label-collapse="Collapse sirocco-core (v0.2.1) (3 below)" data-tree-label-expand="Expand sirocco-core (v0.2.1) (3 hidden)" role="button" tabindex="0" aria-expanded="true" aria-label="Collapse sirocco-core (v0.2.1) (3 below)" class="tree-hue-backend">
-          <circle cx="420" cy="109" r="14.5" class="tree-toggle-hit"/>
-          <circle cx="420" cy="109" r="7.5" class="tree-toggle-disc" stroke-width="1.2"/>
-          <path class="tree-toggle-glyph" d="M 416.85 109 H 423.15" stroke-width="1.5" stroke-linecap="round"/>
-          <path class="tree-toggle-glyph tree-toggle-plus" d="M 420 105.85 V 112.15" stroke-width="1.5" stroke-linecap="round"/>
-          <g class="tree-toggle-count">
-            <rect x="430.5" y="101.5" width="17.2" height="15" rx="7.5" class="tree-count-pill"/>
-            <text x="439.1" y="112.6" class="t-primary" font-size="10" font-weight="700" text-anchor="middle">3</text>
-          </g>
-        </g>
-        <g data-tree-toggle="schoolops" data-tree-count="3" data-tree-ancestors="org" data-tree-label-collapse="Collapse sirocco-schoolops (v0.2.0) (3 below)" data-tree-label-expand="Expand sirocco-schoolops (v0.2.0) (3 hidden)" role="button" tabindex="0" aria-expanded="true" aria-label="Collapse sirocco-schoolops (v0.2.0) (3 below)" class="tree-hue-database">
-          <circle cx="420" cy="399" r="14.5" class="tree-toggle-hit"/>
-          <circle cx="420" cy="399" r="7.5" class="tree-toggle-disc" stroke-width="1.2"/>
-          <path class="tree-toggle-glyph" d="M 416.85 399 H 423.15" stroke-width="1.5" stroke-linecap="round"/>
-          <path class="tree-toggle-glyph tree-toggle-plus" d="M 420 395.85 V 402.15" stroke-width="1.5" stroke-linecap="round"/>
-          <g class="tree-toggle-count">
-            <rect x="430.5" y="391.5" width="17.2" height="15" rx="7.5" class="tree-count-pill"/>
-            <text x="439.1" y="402.6" class="t-primary" font-size="10" font-weight="700" text-anchor="middle">3</text>
-          </g>
-        </g>
-        <g data-tree-toggle="ecotrack" data-tree-count="2" data-tree-ancestors="org" data-tree-label-collapse="Collapse Eco-Track (v2.0.0) (2 below)" data-tree-label-expand="Expand Eco-Track (v2.0.0) (2 hidden)" role="button" tabindex="0" aria-expanded="true" aria-label="Collapse Eco-Track (v2.0.0) (2 below)" class="tree-hue-cloud">
-          <circle cx="420" cy="689.5" r="14.5" class="tree-toggle-hit"/>
-          <circle cx="420" cy="689.5" r="7.5" class="tree-toggle-disc" stroke-width="1.2"/>
-          <path class="tree-toggle-glyph" d="M 416.85 689.5 H 423.15" stroke-width="1.5" stroke-linecap="round"/>
-          <path class="tree-toggle-glyph tree-toggle-plus" d="M 420 686.35 V 692.65" stroke-width="1.5" stroke-linecap="round"/>
-          <g class="tree-toggle-count">
-            <rect x="430.5" y="682" width="17.2" height="15" rx="7.5" class="tree-count-pill"/>
-            <text x="439.1" y="693.1" class="t-primary" font-size="10" font-weight="700" text-anchor="middle">2</text>
-          </g>
+          <text data-node-label="" x="137" y="104" class="t-primary" font-size="11" font-weight="600" text-anchor="middle">Người dùng &amp; Thiết bị</text>
+        <text x="137" y="120" class="t-muted" font-size="9" text-anchor="middle">Web · Mobile 390px · QR</text>
+        <text x="137" y="132" class="t-external" font-size="7" text-anchor="middle">SSO PKCE</text>
         </g>
 
-        <!-- Expand all (shown only while a branch is collapsed) -->
-        <g data-tree-expand-all="" role="button" tabindex="0" aria-label="Expand all">
-          <rect x="32" y="18" width="87" height="24" rx="12" stroke-width="1.2"/>
-          <text x="44" y="34" class="t-primary" font-size="10.5" font-weight="650">Expand all</text>
+        <g id="node-so_web" data-node-id="so_web" data-node-label="SchoolOps Web UI" tabindex="0" role="button" aria-label="Focus SchoolOps Web UI, React 19 · Vite · Tabler, Kho sirocco-schoolops" aria-pressed="false" data-node-kind="frontend" data-node-sublabel="React 19 · Vite · Tabler" data-node-tag="G01 / G03" data-node-context="Kho sirocco-schoolops">
+          <title>SchoolOps Web UI · React 19 · Vite · Tabler · Kho sirocco-schoolops · G01 / G03</title>
+          <rect x="40" y="216" width="194" height="68" rx="8" class="c-mask"/>
+          <rect x="40" y="216" width="194" height="68" rx="8" class="c-frontend" data-animate="node" style="--step: 2; --flow-node-name: archify-relay-node-2;" stroke-width="1.5"/>
+          <g aria-hidden="true" data-semantic-sigil="frontend" class="semantic-sigil s-frontend" transform="translate(46 222) scale(0.6875)">
+            <rect x="2" y="3" width="12" height="10" rx="2"/>
+            <path d="M2 6.5h12"/>
+            <circle cx="4.1" cy="4.8" r=".7" class="sigil-fill"/>
+            <circle cx="6.3" cy="4.8" r=".7" class="sigil-fill"/>
+          </g>
+          <text data-node-label="" x="137" y="248" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">SchoolOps Web UI</text>
+        <text x="137" y="264" class="t-muted" font-size="9" text-anchor="middle">React 19 · Vite · Tabler</text>
+        <text x="137" y="276" class="t-frontend" font-size="7" text-anchor="middle">G01 / G03</text>
+        </g>
+
+        <g id="node-so_api" data-node-id="so_api" data-node-label="SchoolOps API &amp; DB" tabindex="0" role="button" aria-label="Focus SchoolOps API &amp; DB, Express · PostgreSQL riêng, Kho sirocco-schoolops" aria-pressed="false" data-node-kind="backend" data-node-sublabel="Express · PostgreSQL riêng" data-node-tag="v0.2.0" data-node-context="Kho sirocco-schoolops">
+          <title>SchoolOps API &amp; DB · Express · PostgreSQL riêng · Kho sirocco-schoolops · v0.2.0</title>
+          <rect x="332" y="216" width="194" height="68" rx="8" class="c-mask"/>
+          <rect x="332" y="216" width="194" height="68" rx="8" class="c-backend" data-animate="node" style="--step: 4; --flow-node-name: archify-relay-node-4;" stroke-width="1.5"/>
+          <g aria-hidden="true" data-semantic-sigil="backend" class="semantic-sigil s-backend" transform="translate(338 222) scale(0.6875)">
+            <path d="M6 3 3 8l3 5M10 3l3 5-3 5"/>
+          </g>
+          <text data-node-label="" x="429" y="248" class="t-primary" font-size="13.5" font-weight="600" text-anchor="middle">SchoolOps API &amp; DB</text>
+        <text x="429" y="264" class="t-muted" font-size="9" text-anchor="middle">Express · PostgreSQL riêng</text>
+        <text x="429" y="276" class="t-backend" font-size="7" text-anchor="middle">v0.2.0</text>
+        </g>
+
+        <g id="node-eco_web" data-node-id="eco_web" data-node-label="Eco-Track Web &amp; AQI" tabindex="0" role="button" aria-label="Focus Eco-Track Web &amp; AQI, Express · Pug · Leaflet, Kho Eco-Track" aria-pressed="false" data-node-kind="frontend" data-node-sublabel="Express · Pug · Leaflet" data-node-tag="NGSI-LD" data-node-context="Kho Eco-Track">
+          <title>Eco-Track Web &amp; AQI · Express · Pug · Leaflet · Kho Eco-Track · NGSI-LD</title>
+          <rect x="40" y="360" width="194" height="68" rx="8" class="c-mask"/>
+          <rect x="40" y="360" width="194" height="68" rx="8" class="c-frontend" data-animate="node" style="--step: 3; --flow-node-name: archify-relay-node-3;" stroke-width="1.5"/>
+          <g aria-hidden="true" data-semantic-sigil="frontend" class="semantic-sigil s-frontend" transform="translate(46 366) scale(0.6875)">
+            <rect x="2" y="3" width="12" height="10" rx="2"/>
+            <path d="M2 6.5h12"/>
+            <circle cx="4.1" cy="4.8" r=".7" class="sigil-fill"/>
+            <circle cx="6.3" cy="4.8" r=".7" class="sigil-fill"/>
+          </g>
+          <text data-node-label="" x="137" y="392" class="t-primary" font-size="12.8" font-weight="600" text-anchor="middle">Eco-Track Web &amp; AQI</text>
+        <text x="137" y="408" class="t-muted" font-size="9" text-anchor="middle">Express · Pug · Leaflet</text>
+        <text x="137" y="420" class="t-frontend" font-size="7" text-anchor="middle">NGSI-LD</text>
+        </g>
+
+        <g id="node-eco_api" data-node-id="eco_api" data-node-label="Eco-Track LSTM &amp; Mongo" tabindex="0" role="button" aria-label="Focus Eco-Track LSTM &amp; Mongo, Python LSTM · Mongo riêng, Kho Eco-Track" aria-pressed="false" data-node-kind="backend" data-node-sublabel="Python LSTM · Mongo riêng" data-node-tag="v2.0.0" data-node-context="Kho Eco-Track">
+          <title>Eco-Track LSTM &amp; Mongo · Python LSTM · Mongo riêng · Kho Eco-Track · v2.0.0</title>
+          <rect x="332" y="360" width="194" height="68" rx="8" class="c-mask"/>
+          <rect x="332" y="360" width="194" height="68" rx="8" class="c-backend" data-animate="node" style="--step: 6; --flow-node-name: archify-relay-node-6;" stroke-width="1.5"/>
+          <g aria-hidden="true" data-semantic-sigil="backend" class="semantic-sigil s-backend" transform="translate(338 366) scale(0.6875)">
+            <path d="M6 3 3 8l3 5M10 3l3 5-3 5"/>
+          </g>
+          <text data-node-label="" x="429" y="392" class="t-primary" font-size="11" font-weight="600" text-anchor="middle">Eco-Track LSTM &amp; Mongo</text>
+        <text x="429" y="408" class="t-muted" font-size="9" text-anchor="middle">Python LSTM · Mongo riêng</text>
+        <text x="429" y="420" class="t-backend" font-size="7" text-anchor="middle">v2.0.0</text>
+        </g>
+
+        <g id="node-keycloak" data-node-id="keycloak" data-node-label="Keycloak Identity" tabindex="0" role="button" aria-label="Focus Keycloak Identity, OIDC PKCE · Client Roles, Kho sirocco-core (Headless)" aria-pressed="false" data-node-kind="security" data-node-sublabel="OIDC PKCE · Client Roles" data-node-tag="SSO" data-node-context="Kho sirocco-core (Headless)">
+          <title>Keycloak Identity · OIDC PKCE · Client Roles · Kho sirocco-core (Headless) · SSO</title>
+          <rect x="624" y="72" width="194" height="68" rx="8" class="c-mask"/>
+          <rect x="624" y="72" width="194" height="68" rx="8" class="c-security" data-animate="node" style="--step: 1; --flow-node-name: archify-relay-node-1;" stroke-width="1.5"/>
+          <g aria-hidden="true" data-semantic-sigil="security" class="semantic-sigil s-security" transform="translate(630 78) scale(0.6875)">
+            <path d="M8 2.2 13 4v3.5c0 3.1-1.8 5.4-5 6.5-3.2-1.1-5-3.4-5-6.5V4Z"/>
+            <path d="m5.8 8 1.5 1.5 3-3"/>
+          </g>
+          <text data-node-label="" x="721" y="104" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">Keycloak Identity</text>
+        <text x="721" y="120" class="t-muted" font-size="9" text-anchor="middle">OIDC PKCE · Client Roles</text>
+        <text x="721" y="132" class="t-security" font-size="7" text-anchor="middle">SSO</text>
+        </g>
+
+        <g id="node-gateway" data-node-id="gateway" data-node-label="APISIX Connector v2" tabindex="0" role="button" aria-label="Focus APISIX Connector v2, Scoped Token · Idempotent, Kho sirocco-core (Headless)" aria-pressed="false" data-node-kind="backend" data-node-sublabel="Scoped Token · Idempotent" data-node-tag="HTTP Boundary" data-node-context="Kho sirocco-core (Headless)">
+          <title>APISIX Connector v2 · Scoped Token · Idempotent · Kho sirocco-core (Headless) · HTTP Boundary</title>
+          <rect x="624" y="216" width="194" height="68" rx="8" class="c-mask"/>
+          <rect x="624" y="216" width="194" height="68" rx="8" class="c-backend" data-animate="node" style="--step: 5; --flow-node-name: archify-relay-node-5;" stroke-width="1.5"/>
+          <g aria-hidden="true" data-semantic-sigil="backend" class="semantic-sigil s-backend" transform="translate(630 222) scale(0.6875)">
+            <path d="M6 3 3 8l3 5M10 3l3 5-3 5"/>
+          </g>
+          <text data-node-label="" x="721" y="248" class="t-primary" font-size="12.8" font-weight="600" text-anchor="middle">APISIX Connector v2</text>
+        <text x="721" y="264" class="t-muted" font-size="9" text-anchor="middle">Scoped Token · Idempotent</text>
+        <text x="721" y="276" class="t-backend" font-size="7" text-anchor="middle">HTTP Boundary</text>
+        </g>
+
+        <g id="node-core_api" data-node-id="core_api" data-node-label="Sirocco Core API" tabindex="0" role="button" aria-label="Focus Sirocco Core API, Node 22 · TypeScript · Journal, Kho sirocco-core (Headless)" aria-pressed="false" data-node-kind="backend" data-node-sublabel="Node 22 · TypeScript · Journal" data-node-tag="v0.2.1" data-node-context="Kho sirocco-core (Headless)">
+          <title>Sirocco Core API · Node 22 · TypeScript · Journal · Kho sirocco-core (Headless) · v0.2.1</title>
+          <rect x="916" y="216" width="194" height="68" rx="8" class="c-mask"/>
+          <rect x="916" y="216" width="194" height="68" rx="8" class="c-backend" data-animate="node" style="--step: 8; --flow-node-name: archify-relay-node-7;" stroke-width="1.5"/>
+          <g aria-hidden="true" data-semantic-sigil="backend" class="semantic-sigil s-backend" transform="translate(922 222) scale(0.6875)">
+            <path d="M6 3 3 8l3 5M10 3l3 5-3 5"/>
+          </g>
+          <text data-node-label="" x="1013" y="248" class="t-primary" font-size="14" font-weight="600" text-anchor="middle">Sirocco Core API</text>
+        <text x="1013" y="264" class="t-muted" font-size="9" text-anchor="middle">Node 22 · TypeScript · Journal</text>
+        <text x="1013" y="276" class="t-backend" font-size="7" text-anchor="middle">v0.2.1</text>
+        </g>
+
+        <g id="node-flowable" data-node-id="flowable" data-node-label="Flowable &amp; PostgreSQL" tabindex="0" role="button" aria-label="Focus Flowable &amp; PostgreSQL, BPMN bất biến · Bản ghi, Kho sirocco-core (Headless)" aria-pressed="false" data-node-kind="messagebus" data-node-sublabel="BPMN bất biến · Bản ghi" data-node-context="Kho sirocco-core (Headless)">
+          <title>Flowable &amp; PostgreSQL · BPMN bất biến · Bản ghi · Kho sirocco-core (Headless)</title>
+          <rect x="624" y="360" width="194" height="68" rx="8" class="c-mask"/>
+          <rect x="624" y="360" width="194" height="68" rx="8" class="c-messagebus" data-animate="node" style="--step: 10; --flow-node-name: archify-relay-node-8;" stroke-width="1.5"/>
+          <g aria-hidden="true" data-semantic-sigil="messagebus" class="semantic-sigil s-messagebus" transform="translate(630 366) scale(0.6875)">
+            <path d="M2.5 4.5h11M2.5 8h11M2.5 11.5h11"/>
+            <circle cx="5" cy="4.5" r="1" class="sigil-fill"/>
+            <circle cx="10.5" cy="8" r="1" class="sigil-fill"/>
+            <circle cx="7" cy="11.5" r="1" class="sigil-fill"/>
+          </g>
+          <text data-node-label="" x="721" y="392" class="t-primary" font-size="11.5" font-weight="600" text-anchor="middle">Flowable &amp; PostgreSQL</text>
+        <text x="721" y="408" class="t-muted" font-size="9" text-anchor="middle">BPMN bất biến · Bản ghi</text>
+        </g>
+
+        <g id="node-files_av" data-node-id="files_av" data-node-label="SeaweedFS &amp; ClamAV" tabindex="0" role="button" aria-label="Focus SeaweedFS &amp; ClamAV, Cách ly → Sạch · SHA-256, Kho sirocco-core (Headless)" aria-pressed="false" data-node-kind="security" data-node-sublabel="Cách ly → Sạch · SHA-256" data-node-tag="Receipt" data-node-context="Kho sirocco-core (Headless)">
+          <title>SeaweedFS &amp; ClamAV · Cách ly → Sạch · SHA-256 · Kho sirocco-core (Headless) · Receipt</title>
+          <rect x="916" y="360" width="194" height="68" rx="8" class="c-mask"/>
+          <rect x="916" y="360" width="194" height="68" rx="8" class="c-security" data-animate="node" style="--step: 11; --flow-node-name: archify-relay-node-9;" stroke-width="1.5"/>
+          <g aria-hidden="true" data-semantic-sigil="security" class="semantic-sigil s-security" transform="translate(922 366) scale(0.6875)">
+            <path d="M8 2.2 13 4v3.5c0 3.1-1.8 5.4-5 6.5-3.2-1.1-5-3.4-5-6.5V4Z"/>
+            <path d="m5.8 8 1.5 1.5 3-3"/>
+          </g>
+          <text data-node-label="" x="1013" y="392" class="t-primary" font-size="13.5" font-weight="600" text-anchor="middle">SeaweedFS &amp; ClamAV</text>
+        <text x="1013" y="408" class="t-muted" font-size="9" text-anchor="middle">Cách ly → Sạch · SHA-256</text>
+        <text x="1013" y="420" class="t-security" font-size="7" text-anchor="middle">Receipt</text>
+        </g>
+
+        <!-- Connection labels -->
+        <g data-edge-from="users" data-edge-to="keycloak" data-edge-label="OIDC PKCE" data-edge-key="0" data-edge-id="u-kc">
+          <rect x="402.4" y="86" width="53.199999999999996" height="14" rx="3" class="c-mask"/>
+          <text x="429" y="96" class="t-edge-security" font-size="10" font-weight="500" textLength="49.199999999999996" lengthAdjust="spacingAndGlyphs" text-anchor="middle">OIDC PKCE</text>
+        </g>
+        <g data-edge-from="users" data-edge-to="so_web" data-edge-label="G01 / G03" data-edge-key="1" data-edge-id="u-so">
+          <rect x="77.80000000000001" y="171" width="53.199999999999996" height="14" rx="3" class="c-mask"/>
+          <text x="104.4" y="181" class="t-edge-emphasis" font-size="10" font-weight="500" textLength="49.199999999999996" lengthAdjust="spacingAndGlyphs" text-anchor="middle">G01 / G03</text>
+        </g>
+        <g data-edge-from="users" data-edge-to="eco_web" data-edge-label="AQI / Review" data-edge-key="2" data-edge-id="u-eco">
+          <rect x="22" y="315" width="67.6" height="14" rx="3" class="c-mask"/>
+          <text x="55.8" y="325" class="t-edge-emphasis" font-size="10" font-weight="500" textLength="63.599999999999994" lengthAdjust="spacingAndGlyphs" text-anchor="middle">AQI / Review</text>
+        </g>
+        <g data-edge-from="so_web" data-edge-to="so_api" data-edge-label="REST + JWT" data-edge-key="3" data-edge-id="so-w-a">
+          <rect x="254" y="230" width="58" height="14" rx="3" class="c-mask"/>
+          <text x="283" y="240" class="t-edge-default" font-size="10" font-weight="500" textLength="54" lengthAdjust="spacingAndGlyphs" text-anchor="middle">REST + JWT</text>
+        </g>
+        <g data-edge-from="so_api" data-edge-to="gateway" data-edge-label="Connector v2" data-edge-key="4" data-edge-id="so-gw">
+          <rect x="541.2" y="230" width="67.6" height="14" rx="3" class="c-mask"/>
+          <text x="575" y="240" class="t-edge-emphasis" font-size="10" font-weight="500" textLength="63.599999999999994" lengthAdjust="spacingAndGlyphs" text-anchor="middle">Connector v2</text>
+        </g>
+        <g data-edge-from="eco_web" data-edge-to="eco_api" data-edge-label="Review / LSTM" data-edge-key="5" data-edge-id="eco-w-a">
+          <rect x="246.8" y="374" width="72.4" height="14" rx="3" class="c-mask"/>
+          <text x="283" y="384" class="t-edge-default" font-size="10" font-weight="500" textLength="68.4" lengthAdjust="spacingAndGlyphs" text-anchor="middle">Review / LSTM</text>
+        </g>
+        <g data-edge-from="eco_api" data-edge-to="gateway" data-edge-label="Outbox" data-edge-key="6" data-edge-id="eco-gw">
+          <rect x="555.6" y="302" width="38.8" height="14" rx="3" class="c-mask"/>
+          <text x="575" y="312" class="t-edge-emphasis" font-size="10" font-weight="500" textLength="34.8" lengthAdjust="spacingAndGlyphs" text-anchor="middle">Outbox</text>
+        </g>
+        <g data-edge-from="gateway" data-edge-to="core_api" data-edge-label="Kiểm scope" data-edge-key="7" data-edge-id="gw-core">
+          <rect x="838" y="230" width="58" height="14" rx="3" class="c-mask"/>
+          <text x="867" y="240" class="t-edge-security" font-size="8" text-anchor="middle">Kiểm scope</text>
+        </g>
+        <g data-edge-from="core_api" data-edge-to="keycloak" data-edge-label="Identity" data-edge-key="8" data-edge-id="core-kc">
+          <rect x="891.3" y="86" width="48.4" height="14" rx="3" class="c-mask"/>
+          <text x="915.5" y="96" class="t-edge-security" font-size="10" font-weight="500" textLength="44.4" lengthAdjust="spacingAndGlyphs" text-anchor="middle">Identity</text>
+        </g>
+        <g data-edge-from="core_api" data-edge-to="flowable" data-edge-label="BPMN + Record" data-edge-key="9" data-edge-id="core-fl">
+          <rect x="830.8" y="309" width="72.4" height="14" rx="3" class="c-mask"/>
+          <text x="867" y="319" class="t-edge-default" font-size="10" font-weight="500" textLength="68.4" lengthAdjust="spacingAndGlyphs" text-anchor="middle">BPMN + Record</text>
+        </g>
+        <g data-edge-from="core_api" data-edge-to="files_av" data-edge-label="Quét tệp" data-edge-key="10" data-edge-id="core-fs">
+          <rect x="958.5999999999999" y="315" width="48.4" height="14" rx="3" class="c-mask"/>
+          <text x="982.8" y="325" class="t-edge-security" font-size="8" text-anchor="middle">Quét tệp</text>
+        </g>
+
+        <!-- Boundary labels (foreground masks keep routes out of titles) -->
+        <g data-graph-role="structural-frame-label" data-composition-frame-id="0" data-composition-frame-kind="region" data-composition-frame-label="Kho sirocco-schoolops">
+          <rect data-graph-role="structural-frame-label-mask" x="145" y="196" width="123.39999999999999" height="16" rx="3" class="c-mask"/>
+          <text data-boundary-label="" x="149" y="209" class="t-cloud" font-size="9" font-weight="600">Kho sirocco-schoolops</text>
+        </g>
+
+        <g data-graph-role="structural-frame-label" data-composition-frame-id="1" data-composition-frame-kind="region" data-composition-frame-label="Kho Eco-Track">
+          <rect data-graph-role="structural-frame-label-mask" x="24" y="340" width="80.2" height="16" rx="3" class="c-mask"/>
+          <text data-boundary-label="" x="28" y="353" class="t-cloud" font-size="9" font-weight="600">Kho Eco-Track</text>
+        </g>
+
+        <g data-graph-role="structural-frame-label" data-composition-frame-id="2" data-composition-frame-kind="security-group" data-composition-frame-label="Kho sirocco-core (Headless)">
+          <rect data-graph-role="structural-frame-label-mask" x="598" y="52" width="155.79999999999998" height="16" rx="3" class="c-mask"/>
+          <text data-boundary-label="" x="602" y="65" class="t-security" font-size="9" font-weight="600">Kho sirocco-core (Headless)</text>
+        </g>
+
+        <!-- Legend -->
+        <g data-legend="">
+          <text x="40" y="480" class="t-primary" font-size="12" font-weight="650">Legend</text>
+          <g data-legend-semantic-kind="frontend" data-legend-x="40" data-legend-baseline="500" data-legend-width="124">
+            <rect x="40" y="491" width="16" height="10" rx="2.5" class="c-frontend" stroke-width="1"/>
+            <text x="62" y="500" class="t-muted" font-size="10" font-weight="500">Giao diện Web</text>
+          </g>
+          <g data-legend-semantic-kind="backend" data-legend-x="186" data-legend-baseline="500" data-legend-width="124">
+            <rect x="186" y="491" width="16" height="10" rx="2.5" class="c-backend" stroke-width="1"/>
+            <text x="208" y="500" class="t-muted" font-size="10" font-weight="500">API &amp; Gateway</text>
+          </g>
+          <g data-legend-semantic-kind="security" data-legend-x="332" data-legend-baseline="500" data-legend-width="174">
+            <rect x="332" y="491" width="16" height="10" rx="2.5" class="c-security" stroke-width="1"/>
+            <text x="354" y="500" class="t-muted" font-size="10" font-weight="500">Định danh &amp; Kiểm dịch</text>
+          </g>
+          <g data-legend-semantic-kind="messagebus" data-legend-x="528" data-legend-baseline="500" data-legend-width="130">
+            <rect x="528" y="491" width="16" height="10" rx="2.5" class="c-messagebus" stroke-width="1"/>
+            <text x="550" y="500" class="t-muted" font-size="10" font-weight="500">Quy trình BPMN</text>
+          </g>
+          <g data-legend-semantic-kind="external" data-legend-x="680" data-legend-baseline="500" data-legend-width="105">
+            <rect x="680" y="491" width="16" height="10" rx="2.5" class="c-external" stroke-width="1"/>
+            <text x="702" y="500" class="t-muted" font-size="10" font-weight="500">Người dùng</text>
+          </g>
         </g>
       </svg>
