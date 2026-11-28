@@ -24,6 +24,14 @@ Mỗi ứng dụng sở hữu kho mã nguồn, giao diện và cơ sở dữ li�
   <img src="https://raw.githubusercontent.com/SIU-Sirocco-2026/.github/main/profile/assets/org-ecosystem-architecture.png" alt="Kiến trúc hệ sinh thái SIU Sirocco 2026" width="100%" />
 </div>
 
+## Cấu trúc hệ sinh thái mã nguồn
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SIU-Sirocco-2026/.github/main/profile/assets/org-structure-tree.svg" alt="Cấu trúc hệ sinh thái mã nguồn SIU Sirocco" width="100%" />
+</div>
+
+Phân bổ bốn kho thành phần: nền tảng dùng chung `sirocco-core` (`v0.2.1`), hai ứng dụng độc lập `sirocco-schoolops` (`v0.2.0`) và `Eco-Track` (`v2.0.0`), cùng kho hồ sơ công khai `.github`.
+
 ## Trình diễn trực quan
 
 <div align="center">
